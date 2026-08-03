@@ -514,6 +514,7 @@ img { display: block; }
 .request-list dd { margin: 6px 0 0; font-size: .78rem; font-weight: 800; }
 .request-list article > p { color: var(--taupe); font-size: .8rem; }
 .request-actions { display: flex; justify-content: flex-end; gap: 8px; }
+.request-actions .status-whatsapp { border-color: #1f8d4c; background: #1f8d4c; color: white; }
 .request-actions .approve { border-color: var(--success); background: var(--success); color: white; }
 .admin-empty { padding: 40px; background: white; color: var(--taupe); text-align: center; }
 

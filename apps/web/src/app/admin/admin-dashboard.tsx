@@ -77,9 +77,12 @@ export function AdminDashboard({ email }: { email: string }) {
     return `${intro}\n\nThank you for your rental request. Unfortunately, we are unable to approve it for the selected dates.\n\n${details}\n\nPlease reply to this message and we will help you find a suitable alternative.\n\nOveena Bridal Dresses`;
   }
 
+  function statusMessageUrl(item: RentalRequest) {
+    if (item.status === "pending") return `https://wa.me/${whatsappPhone(item.phone)}`;
+    return `https://wa.me/${whatsappPhone(item.phone)}?text=${encodeURIComponent(reviewMessage(item, item.status))}`;
+  }
+
   async function reviewRequest(item: RentalRequest, status: "approved" | "rejected") {
-    const whatsappWindow = window.open("about:blank", "_blank");
-    if (whatsappWindow) whatsappWindow.opener = null;
     setReviewingId(item.id);
 
     try {
@@ -91,16 +94,12 @@ export function AdminDashboard({ email }: { email: string }) {
       const result = await response.json();
 
       if (!response.ok) {
-        whatsappWindow?.close();
         setMessage(result.error ?? "Unable to update the rental request.");
         return;
       }
 
       await load();
-      const whatsappUrl = `https://wa.me/${whatsappPhone(item.phone)}?text=${encodeURIComponent(reviewMessage(item, status))}`;
-      if (whatsappWindow) whatsappWindow.location.href = whatsappUrl;
-      else window.open(whatsappUrl, "_blank", "noopener,noreferrer");
-      setMessage(`${item.customer_name}'s request was ${status}. WhatsApp message is ready to send.`);
+      setMessage(`${item.customer_name}'s request was ${status}. Send the status on WhatsApp only if needed.`);
     } finally {
       setReviewingId(null);
     }
@@ -160,7 +159,7 @@ export function AdminDashboard({ email }: { email: string }) {
                   <div className="request-heading"><div><small>{item.dress_code}</small><h2>{item.dress_name}</h2></div><span className={`request-${item.status}`}>{item.status}</span></div>
                   <dl><div><dt>Customer</dt><dd>{item.customer_name}</dd></div><div><dt>Phone</dt><dd>{item.phone}</dd></div><div><dt>Size</dt><dd>{item.preferred_size}</dd></div><div><dt>Event</dt><dd>{item.event_date}</dd></div><div><dt>Fitting</dt><dd>{item.fitting_date}</dd></div></dl>
                   {item.notes && <p>{item.notes}</p>}
-                  <div className="request-actions"><a href={`https://wa.me/${whatsappPhone(item.phone)}`} target="_blank" rel="noreferrer">WhatsApp customer</a><button disabled={reviewingId === item.id} onClick={() => reviewRequest(item, "rejected")}>{reviewingId === item.id ? "Updating..." : "Reject"}</button><button className="approve" disabled={reviewingId === item.id} onClick={() => reviewRequest(item, "approved")}>{reviewingId === item.id ? "Updating..." : "Approve"}</button></div>
+                  <div className="request-actions"><a href={`https://wa.me/${whatsappPhone(item.phone)}`} target="_blank" rel="noreferrer">WhatsApp customer</a>{item.status !== "pending" && <a className="status-whatsapp" href={statusMessageUrl(item)} target="_blank" rel="noreferrer">Send status on WhatsApp</a>}<button disabled={reviewingId === item.id} onClick={() => reviewRequest(item, "rejected")}>{reviewingId === item.id ? "Updating..." : "Reject"}</button><button className="approve" disabled={reviewingId === item.id} onClick={() => reviewRequest(item, "approved")}>{reviewingId === item.id ? "Updating..." : "Approve"}</button></div>
                 </article>)}
               </div>
             </>
