@@ -3,9 +3,9 @@ import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 
 const featuredDresses = [
-  { number: "01", type: "Kandyan Bridal", name: "Heritage Collection" },
-  { number: "02", type: "Western Bridal", name: "Modern Romance" },
-  { number: "03", type: "Bridesmaids", name: "The Bridal Party" },
+  { number: "01", type: "Western Bridal", name: "Ivory Romance", image: "/images/home/featured-ivory-gown.jpg", alt: "Bride wearing an ivory beaded ball gown outdoors" },
+  { number: "02", type: "Evening & Homecoming", name: "Burgundy Statement", image: "/images/home/featured-burgundy-gown.jpg", alt: "Bride wearing a burgundy ruffled ball gown" },
+  { number: "03", type: "Western Bridal", name: "Lakeside Elegance", image: "/images/home/real-bride-lakeside.jpg", alt: "Bride in an ivory gown with groom beside a lake" },
 ];
 
 const bridalStyles = [
@@ -16,6 +16,18 @@ const bridalStyles = [
   "Homecoming",
   "Engagement Outfits",
 ];
+
+const styleCards = bridalStyles.map((style, index) => ({
+  style,
+  image: [
+    "/images/home/real-bride-lakeside.jpg",
+    "/images/home/featured-ivory-gown.jpg",
+    "/images/home/real-bride-sunset.jpg",
+    "/images/home/real-bride-closeup.jpg",
+    "/images/home/featured-burgundy-gown.jpg",
+    "/images/home/real-bride-lakeside.jpg",
+  ][index],
+}));
 
 const processSteps = [
   ["01", "Discover", "Browse the collection and shortlist the styles that feel like you."],
@@ -60,10 +72,10 @@ export default function Home() {
               <div className="hero-halo" aria-hidden="true" />
               <div className="hero-image-wrap">
                 <Image
-                  src="/brand/oveena-brand.jpg"
-                  alt="Oveena Bridal Dresses brand artwork featuring an ivory bridal gown"
-                  width={1280}
-                  height={1280}
+                  src="/images/home/featured-ivory-gown.jpg"
+                  alt="Bride wearing an ivory beaded Oveena ball gown"
+                  width={1365}
+                  height={2048}
                   className="hero-image"
                   priority
                   sizes="(max-width: 900px) 86vw, 44vw"
@@ -109,14 +121,20 @@ export default function Home() {
                 <p className="eyebrow">The Oveena edit</p>
                 <h2>Featured collections</h2>
               </div>
-              <p>Catalogue photography, individual dress codes, sizes and prices will be added from the owner-approved collection.</p>
+              <p>Real Oveena bridal moments, presented as a first look while individual dress codes, sizes and prices are prepared.</p>
             </div>
             <div className="dress-grid">
               {featuredDresses.map((dress) => (
                 <article className="dress-card" key={dress.number}>
-                  <div className={`dress-placeholder dress-placeholder-${dress.number}`}>
+                  <div className="dress-image">
+                    <Image
+                      src={dress.image}
+                      alt={dress.alt}
+                      fill
+                      className="photo-cover"
+                      sizes="(max-width: 820px) 100vw, 33vw"
+                    />
                     <span>{dress.number}</span>
-                    <p>Owner catalogue image</p>
                   </div>
                   <div className="dress-card-copy">
                     <p>{dress.type}</p>
@@ -137,8 +155,10 @@ export default function Home() {
               <p>From timeless heritage silhouettes to contemporary celebrations.</p>
             </div>
             <div className="style-grid">
-              {bridalStyles.map((style, index) => (
+              {styleCards.map(({ style, image }, index) => (
                 <a className="style-card" href="#book-fitting" key={style}>
+                  <Image src={image} alt="" fill className="photo-cover" sizes="(max-width: 540px) 100vw, 33vw" />
+                  <span className="style-shade" aria-hidden="true" />
                   <span>0{index + 1}</span>
                   <strong>{style}</strong>
                   <small>Explore the style →</small>
@@ -220,10 +240,19 @@ export default function Home() {
 
         <section className="section story-section" id="about">
           <div className="site-shell story-grid">
-            <div className="story-mosaic" aria-label="Real bride gallery images will be added here">
-              <div><span>Real bride</span><small>Owner photo</small></div>
-              <div><span>Fitting moment</span><small>Owner photo</small></div>
-              <div><span>Celebration</span><small>Owner photo</small></div>
+            <div className="story-mosaic" aria-label="Oveena real bride gallery">
+              <div>
+                <Image src="/images/home/real-bride-sunset.jpg" alt="Bride and groom at sunset" fill className="photo-cover" sizes="(max-width: 820px) 60vw, 30vw" />
+                <span>Golden-hour memories</span><small>Real bridal moment</small>
+              </div>
+              <div>
+                <Image src="/images/home/real-bride-closeup.jpg" alt="Bride and groom sharing a quiet moment" fill className="photo-cover" sizes="(max-width: 820px) 40vw, 18vw" />
+                <span>Made personal</span><small>Real bridal moment</small>
+              </div>
+              <div>
+                <Image src="/images/home/real-bride-lakeside.jpg" alt="Bride and groom beside a lake" fill className="photo-cover" sizes="(max-width: 820px) 40vw, 18vw" />
+                <span>Celebrated together</span><small>Real bridal moment</small>
+              </div>
             </div>
             <div className="story-copy">
               <p className="eyebrow">Real moments, beautifully remembered</p>
@@ -238,6 +267,25 @@ export default function Home() {
                 <p><strong>Considered</strong><span>A physical fitting before every confirmed rental.</span></p>
               </div>
             </div>
+          </div>
+        </section>
+
+        <section className="showroom-section">
+          <div className="showroom-image">
+            <Image
+              src="/images/home/showroom-concept.jpg"
+              alt="AI-generated interior concept for an Oveena bridal showroom"
+              fill
+              className="photo-cover"
+              sizes="100vw"
+            />
+            <span className="showroom-overlay" aria-hidden="true" />
+          </div>
+          <div className="site-shell showroom-copy">
+            <p className="eyebrow eyebrow-light">Oveena showroom concept</p>
+            <h2>A calm space for a once-in-a-lifetime choice.</h2>
+            <p>AI-generated design concept shown for atmosphere only—not a photograph of the current Hanwella showroom.</p>
+            <a className="button button-gold" href="#contact">Plan your visit</a>
           </div>
         </section>
 
@@ -259,8 +307,10 @@ export default function Home() {
               <p className="eyebrow">Follow the Oveena story</p>
               <h2>New arrivals, fitting moments and bridal inspiration.</h2>
             </div>
-            <div className="social-tiles" aria-label="Social gallery placeholders">
-              <span>Instagram</span><span>Facebook</span><span>TikTok</span>
+            <div className="social-tiles" aria-label="Oveena social gallery preview">
+              <span><Image src="/images/home/real-bride-closeup.jpg" alt="Oveena bridal couple" fill className="photo-cover" sizes="20vw" /><strong>Instagram</strong></span>
+              <span><Image src="/images/home/featured-burgundy-gown.jpg" alt="Burgundy bridal gown" fill className="photo-cover" sizes="20vw" /><strong>Facebook</strong></span>
+              <span><Image src="/images/home/real-bride-sunset.jpg" alt="Bridal couple at sunset" fill className="photo-cover" sizes="20vw" /><strong>TikTok</strong></span>
             </div>
           </div>
         </section>

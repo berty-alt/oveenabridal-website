@@ -14,6 +14,8 @@
 - Built the Phase 1 luxury design system, responsive global header/footer, and complete English homepage structure.
 - Added honest owner-image placeholders for catalogue and real-bride sections without inventing dress details or reviews.
 - Added an Oveena-specific generated social preview and Open Graph/Twitter metadata.
+- Integrated five owner-supplied bridal photographs across the hero, featured, style, real-bride and social sections while preserving photographer watermarks.
+- Added a clearly labelled AI-generated showroom concept visual; it is not presented as a photograph of the current shop.
 
 ## Files changed
 
@@ -23,7 +25,8 @@
 - GitHub Actions quality workflow at `.github/workflows/ci.yml`.
 - Phase 1 components at `apps/web/src/components/site-header.tsx` and `apps/web/src/components/site-footer.tsx`.
 - Full homepage at `apps/web/src/app/page.tsx` and responsive design system at `apps/web/src/app/globals.css`.
-- Social preview at `apps/web/public/og.png`.
+- Social preview at `apps/web/public/og.jpg`.
+- Homepage imagery at `apps/web/public/images/home/`.
 
 ## Tests performed
 
@@ -37,16 +40,15 @@
 ## Known limitations
 
 - Rental duration, deposits, cancellation, late-return, damage, and cleaning policies are pending owner input.
-- Catalogue names, descriptions, prices, sizes, and images are pending.
+- Dress codes, exact categories, sizes, prices and rental terms remain pending owner input.
 - The verified project is published to GitHub on both `main` and `develop`.
 - GitHub CLI is not installed locally; the connected GitHub app is used for repository operations and Actions inspection.
 - Supabase and Vercel projects have not been created.
 - Responsive browser visual QA is still pending.
-- Featured collection, bridal style, social and real-bride image slots require owner-supplied photography.
 
 ## Next recommended task
 
-Add owner-supplied photography, visually review the homepage at mobile and desktop sizes, then build the collection and dress-detail routes.
+Visually review the homepage at mobile and desktop sizes, then build the collection and dress-detail routes.
 
 ## Do not change
 
