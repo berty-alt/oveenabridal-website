@@ -6,19 +6,35 @@ import type { Dress } from "@/data/dresses";
 export function RentalRequestForm({ dress }: { dress: Dress }) {
   const [submitted, setSubmitted] = useState(false);
 
-  function handleSubmit(event: FormEvent<HTMLFormElement>) {
+  async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
+    const requestData = {
+      dress_code: dress.code,
+      dress_name: dress.name,
+      customer_name: String(data.get("name")),
+      phone: String(data.get("phone")),
+      preferred_size: String(data.get("size")),
+      event_date: String(data.get("eventDate")),
+      fitting_date: String(data.get("fittingDate")),
+      notes: String(data.get("notes") || ""),
+    };
+    await fetch("/api/rental-requests", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(requestData),
+    }).catch(() => undefined);
+
     const message = [
       "Hello Oveena, I would like to request a rental fitting.",
       "",
       `Dress: ${dress.name} (${dress.code})`,
-      `Name: ${data.get("name")}`,
-      `Phone: ${data.get("phone")}`,
-      `Preferred size: ${data.get("size")}`,
-      `Event date: ${data.get("eventDate")}`,
-      `Preferred fitting date: ${data.get("fittingDate")}`,
-      `Notes: ${data.get("notes") || "None"}`,
+      `Name: ${requestData.customer_name}`,
+      `Phone: ${requestData.phone}`,
+      `Preferred size: ${requestData.preferred_size}`,
+      `Event date: ${requestData.event_date}`,
+      `Preferred fitting date: ${requestData.fitting_date}`,
+      `Notes: ${requestData.notes || "None"}`,
       "",
       "I understand this is a request only and requires showroom fitting and admin approval.",
     ].join("\n");

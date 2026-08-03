@@ -4,17 +4,16 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
-import { dresses, getDress, money } from "@/data/dresses";
+import { money } from "@/data/dresses";
+import { getPublicDress } from "@/lib/products";
 import { RentalRequestForm } from "./rental-request-form";
 
 type PageProps = { params: Promise<{ code: string }> };
 
-export function generateStaticParams() {
-  return dresses.map((dress) => ({ code: dress.slug }));
-}
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const dress = getDress((await params).code);
+  const dress = await getPublicDress((await params).code);
   if (!dress) return {};
   return {
     title: dress.name,
@@ -23,7 +22,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export default async function DressDetailPage({ params }: PageProps) {
-  const dress = getDress((await params).code);
+  const dress = await getPublicDress((await params).code);
   if (!dress) notFound();
 
   return (

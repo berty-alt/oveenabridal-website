@@ -20,6 +20,7 @@
 - Recorded owner-approved guide pricing: rentals from LKR 5,000 and deposits from LKR 5,000; exact terms remain showroom-confirmed.
 - Expanded the preview catalogue with ten additional AI-generated dress images, balanced across all five occasion categories.
 - Added a statically generated detail route for every preview dress and a validated WhatsApp rental-request form that does not imply instant confirmation.
+- Added a Supabase-ready secure admin dashboard for catalogue CRUD and rental-request approval, with server-side email allowlisting and a database migration; live activation awaits project credentials.
 
 ## Files changed
 

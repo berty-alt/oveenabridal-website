@@ -2,14 +2,23 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { categories, dresses, type Category, money } from "@/data/dresses";
 
 export function CollectionClient() {
   const [activeCategory, setActiveCategory] = useState<Category>("All");
+  const [products, setProducts] = useState(dresses);
+
+  useEffect(() => {
+    fetch("/api/products")
+      .then((response) => response.ok ? response.json() : Promise.reject())
+      .then((data) => Array.isArray(data) && data.length && setProducts(data))
+      .catch(() => undefined);
+  }, []);
+
   const visibleDresses = activeCategory === "All"
-    ? dresses
-    : dresses.filter((dress) => dress.category === activeCategory);
+    ? products
+    : products.filter((dress) => dress.category === activeCategory);
 
   return (
     <section className="section collection-section" aria-labelledby="collection-title">
