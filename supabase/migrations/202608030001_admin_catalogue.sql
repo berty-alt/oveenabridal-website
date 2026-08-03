@@ -69,4 +69,3 @@ on conflict (code) do update set
   slug = excluded.slug, name = excluded.name, category = excluded.category,
   style = excluded.style, sizes = excluded.sizes, price = excluded.price,
   deposit = excluded.deposit, image = excluded.image, updated_at = now();
-
