@@ -734,8 +734,992 @@ Booking statuses:
 * PENDING_REVIEW
 * FITTING_SCHEDULED
 * APPROVED
-×­÷¶‰ËkºwµçAÉ½Ù¥‘•È…‰ÍÑÉ…Ñ¥½¸4(4)É•…Ñ”…¸¥¹Ñ•É™…”Í¥µ¥±…ÈÑ¼è4(4(¨É•…Ñ•QÉå=¹)½ˆ ¥€4(¨•ÑQÉå=¹MÑ…ÑÕÌ ¥€4(¨…¹•±QÉå=¹)½ˆ ¥€4(¨‘•±•Ñ•QÉå=¹ÍÍ•ÑÌ ¥€4(4)AÉ½Ù¥‘”è4(4(¨I•…°ÁÉ½Ù¥‘•È¥µÁ±•µ•¹Ñ…Ñ¥½¸4(¨5½¬ÁÉ½Ù¥‘•È¥µÁ±•µ•¹Ñ…Ñ¥½¸4(¨ÉÉ½È¡…¹‘±¥¹œ4(¨I•ÑÉäÁ½±¥ä4(¨Q¥µ•½ÕĞ4(¨I…Ñ”±¥µ¥Ñ¥¹œ4(¨UÍ…”±½¥¹œİ¥Ñ¡½ÕĞÍÑ½É¥¹œÕ¹¹••ÍÍ…ÉäÁ•ÉÍ½¹…°‘…Ñ„4(4(ŒŒAÉ¥Ù…ä4(4)Q¡”ÍåÍÑ•´µÕÍĞÉ•½Éè4(4(¨½¹Í•¹ĞÙ•ÉÍ¥½¸4(¨½¹Í•¹ĞÑ¥µ•ÍÑ…µÀ4(¨AÕÉÁ½Í”½˜ÁÉ½•ÍÍ¥¹œ4(¨I•Ñ•¹Ñ¥½¸Á•É¥½4(¨Q¡¥ÉµÁ…ÉÑäÁÉ½•ÍÍ½È4(¨•±•Ñ¥½¸ÍÑ…ÑÕÌ4(4)9•Ù•ÈÕÍ”ÕÍÑ½µ•ÈÁ¡½Ñ½Ì™½Èµ½‘•°ÑÉ…¥¹¥¹œÕ¹±•ÍÌÑ¡”ÕÍÑ½µ•ÈÍ•Á…É…Ñ•±ä…¹•áÁ±¥¥Ñ±ä½ÁÑÌ¥¸¸Q¡”¹½Éµ…°Í•ÉÙ¥”µÕÍĞ¹½Ğ‘•Á•¹½¸µ…É­•Ñ¥¹œ½ÈÑÉ…¥¹¥¹œ½¹Í•¹Ğ¸4(4(´´´4(4(Œ€ÄØ¸€ÌØÀµI9€ÍIMLY%]H4(4)QÉ•…ĞÑ¡”™½±±½İ¥¹œ…ÌÍ•Á…É…Ñ”™•…ÑÕÉ•Ìè4(4(ŒŒ€ÌØÀµ‘•É•”Á¡½Ñ½É…Á¡ä4(4)UÍ”„Í•ÅÕ•¹”½˜‘É•ÍÌÁ¡½Ñ½É…Á¡Ì…ÁÑÕÉ•…É½Õ¹Ñ¡”µ…¹¹•ÅÕ¥¸¸4(4)•…ÑÕÉ•Ìè4(4(¨É…œÑ¼É½Ñ…Ñ”4(¨Q½Õ Íİ¥Á”4(¨i½½´4(¨1…éä±½…‘¥¹œ4(¨A½ÍÑ•È¥µ…”4(¨1½…‘¥¹œÁÉ½É•ÍÌ4(¨5½‰¥±”™…±±‰…¬4(4(ŒŒQÉÕ”€Í‘É•ÍÌµ½‘•°4(4)UÍ”1½1Qµ½‘•±Ì¸4(4)•…ÑÕÉ•Ìè4(4(¨I½Ñ…Ñ”4(¨i½½´4(¨A…¸½¹±ä¥˜…ÁÁÉ½ÁÉ¥…Ñ”4(¨I•Í•Ğ…µ•É„4(¨Õ±±ÍÉ••¸4(¨1¥¡Ñ¥¹œ½¹ÑÉ½±Ì4(¨…‰É¥Œ‘•Ñ…¥°4(¨5½‰¥±”½ÁÑ¥µ¥é…Ñ¥½¸4(¨•ÍÍ¥‰±”™…±±‰…¬…±±•Éä4(¨=ÁÑ¥½¹…°HÍÕÁÁ½ÉĞ4(4)=ÁÑ¥µ¥é”€Í…ÍÍ•ÑÌÕÍ¥¹œè4(4(¨Q•áÑÕÉ”½µÁÉ•ÍÍ¥½¸4(¨5•Í ½µÁÉ•ÍÍ¥½¸4(¨I•…Í½¹…‰±”Á½±å½¸½Õ¹Ğ4(¨1…éä±½…‘¥¹œ4(¨8‘•±¥Ù•Éä4(¨A½ÍÑ•È¥µ…•Ì4(4)¼¹½Ğ±½…±…É”€Íµ½‘•±Ì½¸Ñ¡”¥¹¥Ñ¥…°¡½µ”µÁ…”É•¹‘•È¸4(4(ŒŒ%µÁ½ÉÑ…¹ĞÁÉ½‘ÕĞ±¥µ¥Ñ…Ñ¥½¸4(4)Í¥¹±”ÕÁ±½…‘•ÕÍÑ½µ•ÈÁ¡½Ñ¼‘½•Ì¹½ĞÉ•…Ñ”„É•±¥…‰±”ÑÉÕ”€Í‰½‘äµ½‘•°¸4(4)Q¡”™¥ÉÍĞÉ•±•…Í”Í¡½Õ±ÁÉ½Ù¥‘”è4(4(¨$µ•¹•É…Ñ•€ÉÑÉäµ½¸É•ÍÕ±Ğ4(¨%¹‘•Á•¹‘•¹Ğ€ÌØÃ
-À½È€Í‘É•ÍÌÙ¥•İ•È4(4)¼¹½Ğ™…±Í•±ä½µ‰¥¹”Ñ¡•Í”¥¹Ñ¼…¸ƒŠq…ÕÉ…Ñ”€Í™¥ÑÑ¥¹ŸŠt±…¥´¸4(4(´´´4(4(Œ€ÄÜ¸5%8M!	=I4(4)Q¡”‘…Í¡‰½…ÉµÕÍĞÁÉ½Ù¥‘”è4(4(ŒŒMÕµµ…Éä…É‘Ì4(4(¨Q½‘…çŠeÌ…ÁÁ½¥¹Ñµ•¹ÑÌ4(¨A•¹‘¥¹œ‰½½­¥¹œÉ•ÅÕ•ÍÑÌ4(¨½¹™¥Éµ•É•¹Ñ…±Ì4(¨UÁ½µ¥¹œÁ¥­ÕÁÌ4(¨=Ù•É‘Õ”É•ÑÕÉ¹Ì4(¨É•ÍÍ•ÌÉ•ÅÕ¥É¥¹œ±•…¹¥¹œ4(¨A•¹‘¥¹œ¥¹ÍÁ•Ñ¥½¹Ì4(¨A•¹‘¥¹œÁ…åµ•¹ÑÌ4(4(ŒŒ…±•¹‘…È4(4)M¡½Üè4(4(¨¥ÑÑ¥¹Ì4(¨I•¹Ñ…°Á•É¥½‘Ì4(¨A¥­ÕÁÌ4(¨I•ÑÕÉ¹Ì4(¨5…¥¹Ñ•¹…¹”‰±½­Ì4(4(ŒŒÉ•ÍÌµ…¹…•µ•¹Ğ4(4)‘µ¥¸…¸è4(4(¨‘…¹•‘¥Ğ‘É•ÍÍ•Ì4(¨5…¹…”Ù…É¥…¹ÑÌ4(¨UÁ±½…¥µ…•Ì4(¨I•½É‘•Èµ•‘¥„4(¨M•ĞÁÉ¥•Ì4(¨½¹™¥ÕÉ”‘•Á½Í¥ÑÌ4(¨5…É¬‘É•ÍÌ½¹‘¥Ñ¥½¸4(¨¹…‰±”$ÑÉäµ½¸4(¨ÑÑ… €Íµ½‘•±Ì4(¨	±½¬Õ¹…Ù…¥±…‰±”‘…Ñ•Ì4(¨I•Ñ¥É”„‘É•ÍÌ4(4(ŒŒ	½½­¥¹œµ…¹…•µ•¹Ğ4(4)‘µ¥¸…¸è4(4(¨I•Ù¥•ÜÉ•ÅÕ•ÍÑÌ4(¨¡•¬…Ù…¥±…‰¥±¥Ñä4(¨ÁÁÉ½Ù”½ÈÉ•©•Ğ4(¨AÉ½Á½Í”…±Ñ•É¹…Ñ”‘…Ñ•Ì4(¨ÍÍ¥¸ÍÑ…™˜4(¨I•½É¹½Ñ•Ì4(¨UÁ‘…Ñ”ÍÑ…ÑÕÌ4(¨I•½ÉÁ¥­ÕÀ4(¨I•½ÉÉ•ÑÕÉ¸4(¨½µÁ±•Ñ”¥¹ÍÁ•Ñ¥½¸4(¨‘¡…É•Ì4(¨AÉ½•ÍÌÉ•™Õ¹ÍÑ…ÑÕÌ4(4)±°Í•¹Í¥Ñ¥Ù”…‘µ¥¹¥ÍÑÉ…Ñ¥Ù”…Ñ¥½¹ÌµÕÍĞ‰”É•½É‘•¥¸…¸…Õ‘¥Ğ±½œ¸4(4(´´´4(4(Œ€Äà¸Ae59QL4(4)É•…Ñ”„ÁÉ½Ù¥‘•Èµ¥¹‘•Á•¹‘•¹ĞÁ…åµ•¹Ğ±…å•È¸4(4)A½ÍÍ¥‰±”™ÕÑÕÉ”ÁÉ½Ù¥‘•ÉÌµ…ä¥¹±Õ‘”„MÉ¤1…¹­…¸Á…åµ•¹Ğ…Ñ•İ…ä°‰…¹¬ÑÉ…¹Í™•È½Èµ…¹Õ…°Í¡½ÀÁ…åµ•¹Ğ¸¼¹½Ğ…ÍÍÕµ”„ÁÉ½Ù¥‘•Èİ¥Ñ¡½ÕĞ½¹™¥Éµ…Ñ¥½¸¸4(4)MÕÁÁ½ÉĞè4(4(¨=¹±¥¹”Á…åµ•¹Ğ4(¨	…¹¬ÑÉ…¹Í™•ÈÉ•™•É•¹”4(¨…Í Á…åµ•¹ĞÉ•½É‘•‰äÍÑ…™˜4(¨A…ÉÑ¥…°Á…åµ•¹ÑÌ4(¨I•™Õ¹‘…‰±”‘•Á½Í¥Ğ4(¨	…±…¹”Á…åµ•¹Ğ4(¨I•™Õ¹ÍÑ…ÑÕÌ4(¨A…åµ•¹ĞÉ••¥ÁÑÌ4(4)M•ÕÉ¥ÑäÉÕ±•Ìè4(4(¨9•Ù•ÈÍÑ½É”…É‘•Ñ…¥±Ì¸4(¨UÍ”½™™¥¥…°¡½ÍÑ•Á…åµ•¹ĞÁ…•Ì½ÈÑ½­•¹¥é•ÁÉ½Ù¥‘•È™±½İÌ¸4(¨Y•É¥™äÍ¥¹…ÑÕÉ•Ì½¸…±±‰…­Ì¸4(¨UÍ”¥‘•µÁ½Ñ•¹äÁÉ½Ñ•Ñ¥½¸¸4(¨-••ÀÉ…ÜÁ…åµ•¹ĞÍ•É•ÑÌÍ•ÉÙ•ÈµÍ¥‘”¸4(¨I•½ÉÁ…åµ•¹Ğ…Õ‘¥Ğ•Ù•¹ÑÌ¸4(¨I•½¹¥±”Á…åµ•¹Ğ…µ½Õ¹Ğ…¹ÕÉÉ•¹ä½¸Ñ¡”Í•ÉÙ•È¸4(4(´´´4(4(Œ€Ää¸9=Q%%Q%=9L4(4)•Í¥¸„¹½Ñ¥™¥…Ñ¥½¸Í•ÉÙ¥”…‰ÍÑÉ…Ñ¥½¸¸4(4)¡…¹¹•±Ìè4(4(¨µ…¥°4(¨]¡…ÑÍÁÀ4(¨M5L°¥˜…ÁÁÉ½Ù•4(¨%¸µ…ÁÀ¹½Ñ¥™¥…Ñ¥½¹Ì4(4)Ù•¹ÑÌè4(4(¨½Õ¹ĞÉ•…Ñ•4(¨ÁÁ½¥¹Ñµ•¹ĞÉ•ÅÕ•ÍÑ•4(¨ÁÁ½¥¹Ñµ•¹Ğ½¹™¥Éµ•4(¨	½½­¥¹œÉ•ÅÕ•ÍÑ•4(¨	½½­¥¹œ…ÁÁÉ½Ù•4(¨•Á½Í¥ĞÉ•ÅÕ•ÍÑ•4(¨A…åµ•¹ĞÉ••¥Ù•4(¨¥ÑÑ¥¹œÉ•µ¥¹‘•È4(¨A¥­ÕÀÉ•µ¥¹‘•È4(¨I•ÑÕÉ¸É•µ¥¹‘•È4(¨=Ù•É‘Õ”É•ÑÕÉ¸4(¨I•™Õ¹ÁÉ½•ÍÍ•4(¨$ÑÉäµ½¸É•…‘ä4(¨$Á¡½Ñ¼‘•±•Ñ•4(4)¼¹½ĞÍ•¹É•…°µ•ÍÍ…•Ì‘ÕÉ¥¹œ±½…°‘•Ù•±½Áµ•¹Ğ¸UÍ”„µ½¬ÁÉ½Ù¥‘•È¸4(4(´´´4(4(Œ€ÈÀ¸MUI%QdIEU%I59QL4(4)½±±½ÜÍ•ÕÉ”µ‰äµ‘•™…Õ±ĞÁÉ¥¹¥Á±•Ì¸4(4)%µÁ±•µ•¹Ğè4(4(¨M•ÉÙ•ÈµÍ¥‘”…ÕÑ¡½É¥é…Ñ¥½¸4(¨MÑÉ½¹œÍ•ÍÍ¥½¸¡…¹‘±¥¹œ4(¨MIÁÉ½Ñ•Ñ¥½¸İ¡•É”…ÁÁ±¥…‰±”4(¨I…Ñ”±¥µ¥Ñ¥¹œ4(¨%¹ÁÕĞÙ…±¥‘…Ñ¥½¸4(¨=ÕÑÁÕĞ•¹½‘¥¹œ4(¨M•ÕÉ”¡•…‘•ÉÌ4(¨½¹Ñ•¹ĞM•ÕÉ¥ÑäA½±¥ä4(¨M…™”™¥±”ÕÁ±½…‘Ì4(¨M¥¹•UI1Ì4(¨…Ñ…‰…Í”Á…É…µ•Ñ•É¥é…Ñ¥½¸4(¨M•É•ÑÌµ…¹…•µ•¹Ğ4(¨Õ‘¥Ğ±½¥¹œ4(¨5¥¹¥µ…°•ÉÉ½È‘¥Í±½ÍÕÉ”4(¨•Á•¹‘•¹äÍ…¹¹¥¹œ4(¨ÕÑ¡•¹Ñ¥…Ñ¥½¸•Ù•¹Ğ±½¥¹œ4(¨	ÉÕÑ”µ™½É”ÁÉ½Ñ•Ñ¥½¸4(¨A…ÍÍİ½ÉÉ•Í•ĞÍ•ÕÉ¥Ñä4(¨µ…¥°Ù•É¥™¥…Ñ¥½¸¥˜Á…ÍÍİ½É…ÕÑ¡•¹Ñ¥…Ñ¥½¸¥ÌÕÍ•4(4)AÉ½Ñ•Ğ……¥¹ÍĞè4(4(¨ME0¥¹©•Ñ¥½¸4(¨É½ÍÌµÍ¥Ñ”ÍÉ¥ÁÑ¥¹œ4(¨MI4(¨%=H4(¨	É½­•¸…•ÍÌ½¹ÑÉ½°4(¨5…±¥¥½ÕÌÕÁ±½…‘Ì4(¨A…Ñ ÑÉ…Ù•ÉÍ…°4(¨MMI4(¨A…åµ•¹Ğ…±±‰…¬™½É•Éä4(¨	½½­¥¹œÉ…”½¹‘¥Ñ¥½¹Ì4(¨5…ÍÌ…ÍÍ¥¹µ•¹Ğ4(¨á•ÍÍ¥Ù”A$É•ÅÕ•ÍÑÌ4(¨M•¹Í¥Ñ¥Ù”‘…Ñ„•áÁ½ÍÕÉ”4(4)9•Ù•È±½œè4(4(¨A…ÍÍİ½É‘Ì4(¨ÕÑ¡•¹Ñ¥…Ñ¥½¸Ñ½­•¹Ì4(¨A…åµ•¹ĞÍ•É•ÑÌ4(¨½µÁ±•Ñ”ÁÉ¥Ù…Ñ”¥µ…•Ì4(¨U¹¹••ÍÍ…Éä‰½‘äµ•…ÍÕÉ•µ•¹ÑÌ4(¨M•¹Í¥Ñ¥Ù”ÁÉ½Ù¥‘•ÈÁ…å±½…‘Ì4(4(´´´4(4(Œ€ÈÄ¸AI%YdIEU%I59QL4(4)Q¡”Á±…Ñ™½É´µÕÍĞ‰”‘•Í¥¹•İ¥Ñ MÉ¤1…¹­…¸Á•ÉÍ½¹…°µ‘…Ñ„ÁÉ½Ñ•Ñ¥½¸É•ÅÕ¥É•µ•¹ÑÌ¥¸µ¥¹¸4(4)AÉ½Ù¥‘”è4(4(¨AÉ¥Ù…ä¹½Ñ¥”4(¨áÁ±¥¥ĞY¥ÉÑÕ…°QÉäµ=¸½¹Í•¹Ğ4(¨AÕÉÁ½Í”±¥µ¥Ñ…Ñ¥½¸4(¨…Ñ„µ¥¹¥µ¥é…Ñ¥½¸4(¨I•Ñ•¹Ñ¥½¸Í¡•‘Õ±”4(¨•±•Ñ”µµäµÁ¡½Ñ¼™Õ¹Ñ¥½¸4(¨½Õ¹Ğ‘•±•Ñ¥½¸É•ÅÕ•ÍĞ4(¨½¹Í•¹Ğİ¥Ñ¡‘É…İ…°ÁÉ½•ÍÌ4(¨Q¡¥ÉµÁ…ÉÑäÁÉ½•ÍÍ½È‘¥Í±½ÍÕÉ”4(¨%¹Ñ•É¹…Ñ¥½¹…°‘…Ñ„ÑÉ…¹Í™•È‘¥Í±½ÍÕÉ”İ¡•¸…ÁÁ±¥…‰±”4(¨M•ÕÉ¥Ñä¥¹¥‘•¹ĞÁÉ½•‘ÕÉ”4(¨‘µ¥¸…•ÍÌ½¹ÑÉ½±Ì4(4)MÕ•ÍÑ•‘•™…Õ±Ğ$µ¥µ…”É•Ñ•¹Ñ¥½¸è4(4(¨M½ÕÉ”Á¡½Ñ¼è‘•±•Ñ”…ÌÍ½½¸…ÌÁÉ½•ÍÍ¥¹œ¥Ì½µÁ±•Ñ”½Èİ¥Ñ¡¥¸€ÈĞ¡½ÕÉÌ4(¨I•ÍÕ±Ğ¥µ…”èÕÍÑ½µ•Èµ½¹ÑÉ½±±•°İ¥Ñ „Í¡½ÉĞ½¹™¥ÕÉ…‰±”•áÁ¥Éä4(¨…¥±•µ©½ˆÁ¡½Ñ¼è‘•±•Ñ”…ÕÑ½µ…Ñ¥…±±ä4(¨1½ÌèÉ•Ñ…¥¸½¹±ä¹½¸µÍ•¹Í¥Ñ¥Ù”½Á•É…Ñ¥½¹…°µ•Ñ…‘…Ñ„4(4)Q¡”•á…ĞÉ•Ñ•¹Ñ¥½¸Á½±¥äµÕÍĞ‰”½¹™¥ÕÉ…‰±”…¹…ÁÁÉ½Ù•‰äÑ¡”‰ÕÍ¥¹•ÍÌ½İ¹•È¸4(4(´´´4(4(Œ€ÈÈ¸M<95I-Q%94(4)%µÁ±•µ•¹Ğè4(4(¨M•µ…¹Ñ¥Œµ•Ñ…‘…Ñ„4(¨=Á•¸É…Á ¥µ…•Ì4(¨…¹½¹¥…°UI1Ì4(¨a50Í¥Ñ•µ…À4(¨I½‰½ÑÌ½¹™¥ÕÉ…Ñ¥½¸4(¨AÉ½‘ÕĞÍÑÉÕÑÕÉ•‘…Ñ„4(¨1½…°	ÕÍ¥¹•ÍÌÍÑÉÕÑÕÉ•‘…Ñ„4(¨	É•…‘ÉÕµˆÍÑÉÕÑÕÉ•‘…Ñ„4(¨±•…¸‘É•ÍÌÍ±ÕÌ4(¨=ÁÑ¥µ¥é•Á…”Ñ¥Ñ±•Ì4(¨1½…Ñ¥½¸µ‰…Í•½¹Ñ•¹Ğ4(¨%µ…”…±ĞÑ•áĞ4(¨M½¥…°Í¡…É¥¹œ4(¨¹…±åÑ¥Ì½¹Í•¹Ğ…É¡¥Ñ•ÑÕÉ”4(4)A½ÍÍ¥‰±”M<Ñ½Á¥Ìè4(4(¨	É¥‘…°‘É•ÍÌÉ•¹Ñ…°MÉ¤1…¹­„4(¨]•‘‘¥¹œ‘É•ÍÌÉ•¹Ñ…°½±½µ‰¼4(¨-…¹‘å…¸‰É¥‘…°‘É•ÍÌÉ•¹Ñ…°4(¨	É¥‘…°½İ¸™¥ÑÑ¥¹œ4(¨•Í¥¹•Èİ•‘‘¥¹œ‘É•ÍÌÉ•¹Ñ…°4(¨	É¥‘•Íµ…¥‘É•ÍÌÉ•¹Ñ…°4(¨	É¥‘…°ÁÉ”µÍ¡½½Ğ‘É•ÍÌÉ•¹Ñ…°4(4)¼¹½ĞÉ•…Ñ”­•åİ½ÉµÍÑÕ™™•½Èµ¥Í±•…‘¥¹œ½¹Ñ•¹Ğ¸4(4(´´´4(4(Œ€ÈÌ¸AI=I59IEU%I59QL4(4)Q…É•Ğè4(4(¨á•±±•¹Ğµ½‰¥±”•áÁ•É¥•¹”4(¨…ÍĞ™¥ÉÍĞ½¹Ñ•¹ĞÉ•¹‘•È4(¨=ÁÑ¥µ¥é•É•ÍÁ½¹Í¥Ù”¥µ…•Ì4(¨1…éäµ±½…‘•…±±•É¥•Ì4(¨I½ÕÑ”µ±•Ù•°½‘”ÍÁ±¥ÑÑ¥¹œ4(¨9¼±…É”Õ¹ÕÍ•)…Ù…MÉ¥ÁĞ4(¨…¡•ÁÕ‰±¥Œ…Ñ…±½Õ”‘…Ñ„4(¨™™¥¥•¹Ğ‘…Ñ…‰…Í”ÅÕ•É¥•Ì4(¨A…¥¹…Ñ¥½¸4(¨M­•±•Ñ½¸ÍÑ…Ñ•Ì4(¨É…•™Õ°™…¥±ÕÉ”ÍÑ…Ñ•Ì4(¨1½Üµ‰…¹‘İ¥‘Ñ ™…±±‰…­Ì4(4)¼¹½Ğ±½…è4(4(¨$±¥‰É…É¥•Ì¥¸Ñ¡”‰É½İÍ•ÈÕ¹¹••ÍÍ…É¥±ä4(¨Õ±°µÉ•Í½±ÕÑ¥½¸¥µ…•Ì™½ÈÑ¡Õµ‰¹…¥±Ì4(¨€Íµ½‘•±Ì‰•™½É”Ñ¡”ÕÍ•ÈÉ•ÅÕ•ÍÑÌÑ¡•´4(¨¹Ñ¥É”…Ñ…±½Õ”‘…Ñ…Í•ÑÌ…Ğ½¹”4(4)UÍ”½É”]•ˆY¥Ñ…±Ì…ÌÁ•É™½Éµ…¹”Õ¥‘…¹”¸4(4(´´´4(4(Œ€ÈĞ¸QMQ%9MQIQd4(4)I•ÅÕ¥É•Ñ•ÍĞ±…å•ÉÌè4(4(ŒŒU¹¥ĞÑ•ÍÑÌ4(4(¨AÉ¥”…±Õ±…Ñ¥½¸4(¨…Ñ”½Ù•É±…À4(¨	½½­¥¹œÍÑ…ÑÕÌÑÉ…¹Í¥Ñ¥½¹Ì4(¨•Á½Í¥Ğ…±Õ±…Ñ¥½¹Ì4(¨A•Éµ¥ÍÍ¥½¸¡•­Ì4(¨¥±”Ù…±¥‘…Ñ¥½¸4(¨$ÁÉ½Ù¥‘•È…‰ÍÑÉ…Ñ¥½¸4(4(ŒŒ%¹Ñ•É…Ñ¥½¸Ñ•ÍÑÌ4(4(¨I•¥ÍÑÉ…Ñ¥½¸4(¨1½¥¸4(¨É•ÍÌÉ•…Ñ¥½¸4(¨Ù…¥±…‰¥±¥Ñä¡•¬4(¨	½½­¥¹œÉ•ÅÕ•ÍĞ4(¨‘µ¥¸…ÁÁÉ½Ù…°4(¨A…åµ•¹Ğ…±±‰…¬4(¨A¡½Ñ¼ÕÁ±½…4(¨$©½ˆÉ•…Ñ¥½¸4(¨A¡½Ñ¼‘•±•Ñ¥½¸4(4(ŒŒ¹µÑ¼µ•¹Ñ•ÍÑÌ4(4)ÕÍÑ½µ•Èè4(4(¨	É½İÍ”½±±•Ñ¥½¸4(¨¥±Ñ•È‘É•ÍÍ•Ì4(¨=Á•¸‘É•ÍÌ‘•Ñ…¥±Ì4(¨¡•¬‘…Ñ•Ì4(¨	½½¬™¥ÑÑ¥¹œ4(¨MÕ‰µ¥Ğ‰½½­¥¹œÉ•ÅÕ•ÍĞ4(¨Y¥•Ü‰½½­¥¹œÍÑ…ÑÕÌ4(4)‘µ¥¸è4(4(¨‘‘É•ÍÌ4(¨	±½¬‘…Ñ•Ì4(¨ÁÁÉ½Ù”‰½½­¥¹œ4(¨I•½ÉÁ…åµ•¹Ğ4(¨I•½ÉÁ¥­ÕÀ4(¨½µÁ±•Ñ”É•ÑÕÉ¸¥¹ÍÁ•Ñ¥½¸4(4(ŒŒ‘‘¥Ñ¥½¹…°Ñ•ÍÑÌ4(4(¨•ÍÍ¥‰¥±¥ÑäÑ•ÍÑ¥¹œ4(¨5½‰¥±”Ù¥•İÁ½ÉĞÑ•ÍÑ¥¹œ4(¨M•ÕÉ¥Ñä¡•­Ì4(¨½¹ÕÉÉ•¹Ğ‰½½­¥¹œÑ•ÍĞ4(¨…¥±•$ÁÉ½Ù¥‘•ÈÑ•ÍĞ4(¨…¥±•Á…åµ•¹ĞÙ•É¥™¥…Ñ¥½¸Ñ•ÍĞ4(4)9¼Á¡…Í”¥Ì½µÁ±•Ñ”¥˜¥ÑÌÉ¥Ñ¥…°Ñ•ÍÑÌ…É”™…¥±¥¹œ¸4(4(´´´4(4(Œ€ÈÔ¸Y1=A59PA!ML4(4(ŒŒA¡…Í”€ÀƒŠL¥Í½Ù•Éä…¹™½Õ¹‘…Ñ¥½¸4(4)•±¥Ù•Èè4(4(¨I•Á½Í¥Ñ½Éä…ÍÍ•ÍÍµ•¹Ğ4(¨AÉ½©•ĞÁ±…¸4(¨É¡¥Ñ•ÑÕÉ”‘½Õµ•¹Ğ4(¨…Ñ…‰…Í”I4(¨A…”µ…À4(¨UÍ•Èµ™±½Ü‘½Õµ•¹Ñ…Ñ¥½¸4(¨I¥Í¬É•¥ÍÑ•È4(¨Q…Í¬‰½…É4(¨¹Ù¥É½¹µ•¹ĞÑ•µÁ±…Ñ”4(¨•Ù•±½Áµ•¹Ğ¥¹ÍÑÉÕÑ¥½¹Ì4(4)¼¹½ĞÁÉ½••Õ¹Ñ¥°Ñ¡”™½Õ¹‘…Ñ¥½¸¥Ì¥¹Ñ•É¹…±±ä½¹Í¥ÍÑ•¹Ğ¸4(4(ŒŒA¡…Í”€ÄƒŠL•Í¥¸ÍåÍÑ•´…¹ÁÕ‰±¥Œİ•‰Í¥Ñ”4(4)•±¥Ù•Èè4(4(¨!•…‘•È…¹™½½Ñ•È4(¨•Í¥¸Ñ½­•¹Ì4(¨QåÁ½É…Á¡ä4(¨I•ÍÁ½¹Í¥Ù”±…å½ÕĞ4(¨!½µ”Á…”4(¨½±±•Ñ¥½¸Á…”4(¨É•ÍÌ‘•Ñ…¥°Á…”4(¨‰½ÕĞ4(¨!½Ü¥Ğİ½É­Ì4(¨D4(¨½¹Ñ…Ğ4(¨1½…‘¥¹œ…¹•µÁÑäÍÑ…Ñ•Ì4(4)UÍ”Í••‘…Ñ„¥¹¥Ñ¥…±±ä¸4(4(ŒŒA¡…Í”€ÈƒŠLÕÑ¡•¹Ñ¥…Ñ¥½¸…¹ÕÍÑ½µ•È…½Õ¹ÑÌ4(4)•±¥Ù•Èè4(4(¨I•¥ÍÑÉ…Ñ¥½¸4(¨1½¥¸4(¨A…ÍÍİ½ÉÉ•Í•Ğ4(¨I½±”ÍåÍÑ•´4(¨ÕÍÑ½µ•ÈÁÉ½™¥±”4(¨5•…ÍÕÉ•µ•¹ĞÁÉ½™¥±”4(¨…Ù½ÕÉ¥Ñ•Ì4(¨½Õ¹Ğ‘…Í¡‰½…É4(4(ŒŒA¡…Í”€ÌƒŠLÉ•ÍÌ¥¹Ù•¹Ñ½Éä…¹…‘µ¥¸4(4)•±¥Ù•Èè4(4(¨É•ÍÌIU4(¨É•ÍÌÙ…É¥…¹ĞIU4(¨5•‘¥„µ…¹…•µ•¹Ğ4(¨Ù…¥±…‰¥±¥Ñä‰±½­Ì4(¨‘µ¥¸‘…Í¡‰½…É4(¨Õ‘¥Ğ±½¥¹œ4(4(ŒŒA¡…Í”€ĞƒŠLÁÁ½¥¹Ñµ•¹ÑÌ…¹É•¹Ñ…°‰½½­¥¹œ4(4)•±¥Ù•Èè4(4(¨ÁÁ½¥¹Ñµ•¹Ğ…±•¹‘…È4(¨Ù…¥±…‰¥±¥Ñä•¹¥¹”4(¨	½½­¥¹œÉ•ÅÕ•ÍĞ™±½Ü4(¨‘µ¥¸…ÁÁÉ½Ù…°4(¨	½½­¥¹œÍÑ…ÑÕÌÑ¥µ•±¥¹”4(¨A¥­ÕÀ…¹É•ÑÕÉ¸İ½É­™±½Ü4(¨%¹ÍÁ•Ñ¥½¸İ½É­™±½Ü4(4(ŒŒA¡…Í”€ÔƒŠLA…åµ•¹ÑÌ…¹¹½Ñ¥™¥…Ñ¥½¹Ì4(4)•±¥Ù•Èè4(4(¨A…åµ•¹Ğ…‰ÍÑÉ…Ñ¥½¸4(¨M…¹‘‰½à…Ñ•İ…ä½Èµ½¬4(¨M•ÉÙ•ÈµÍ¥‘”Ù•É¥™¥…Ñ¥½¸4(¨I••¥ÁÑÌ4(¨µ…¥°¹½Ñ¥™¥…Ñ¥½¹Ì4(¨]¡…ÑÍÁÀµÉ•…‘ä…‰ÍÑÉ…Ñ¥½¸4(¨I•µ¥¹‘•ÈÍåÍÑ•´4(4(ŒŒA¡…Í”€ØƒŠL$Y¥ÉÑÕ…°QÉäµ=¸4(4)•±¥Ù•Èè4(4(¨½¹Í•¹ĞÍÉ••¸4(¨M•ÕÉ”ÕÁ±½…4(¨5½¬$ÁÉ½Ù¥‘•È4(¨I•…°ÁÉ½Ù¥‘•È¥¹Ñ•É…Ñ¥½¸‰•¡¥¹½¹™¥ÕÉ…Ñ¥½¸4(¨	…­É½Õ¹©½ˆ™±½Ü4(¨I•ÍÕ±ĞÁ…”4(¨•±•Ñ¥½¸™±½Ü4(¨I…Ñ”±¥µ¥Ñ¥¹œ4(¨AÉ¥Ù…ä½¹ÑÉ½±Ì4(4(ŒŒA¡…Í”€ÜƒŠL€ÌØÃ
-À…¹€ÍÙ¥•İ•È4(4)•±¥Ù•Èè4(4(¨€ÌØÃ
-À¥µ…”Ù¥•İ•È4(¨1½1QÙ¥•İ•È4(¨5½‰¥±”Á•É™½Éµ…¹”½ÁÑ¥µ¥é…Ñ¥½¸4(¨•ÍÍ¥‰±”™…±±‰…¬4(¨‘µ¥¸µ•‘¥„½¹™¥ÕÉ…Ñ¥½¸4(4(ŒŒA¡…Í”€àƒŠLEÕ…±¥Ñä…¹±…Õ¹ 4(4)•±¥Ù•Èè4(4(¨Õ±°…ÕÑ½µ…Ñ•Ñ•ÍĞÍÕ¥Ñ”4(¨M•ÕÉ¥ÑäÉ•Ù¥•Ü4(¨•ÍÍ¥‰¥±¥ÑäÉ•Ù¥•Ü4(¨A•É™½Éµ…¹”É•Ù¥•Ü4(¨M<½¹™¥ÕÉ…Ñ¥½¸4(¨ÉÉ½Èµ½¹¥Ñ½É¥¹œ4(¨	…­ÕÀÍÑÉ…Ñ•ä4(¨AÉ½‘ÕÑ¥½¸‘•Á±½åµ•¹ĞÕ¥‘”4(¨‘µ¥¸ÕÍ•ÈÕ¥‘”4(¨ÕÍÑ½µ•ÈÍÕÁÁ½ÉĞÕ¥‘”4(4(´´´4(4(Œ€ÈØ¸A!M!-A=%9P=I5P4(4)™Ñ•È•Ù•ÉäÁ¡…Í”°É•Á½ÉĞè4(4(ŒŒ½µÁ±•Ñ•4(4)1¥ÍĞ½µÁ±•Ñ•É•ÅÕ¥É•µ•¹ÑÌ¸4(4(ŒŒ¥±•Ì¡…¹•4(4)1¥ÍĞ¥µÁ½ÉÑ…¹Ğ™¥±•Ì…¹İ¡äÑ¡•ä¡…¹•¸4(4(ŒŒ…Ñ…‰…Í”¡…¹•Ì4(4)•ÍÉ¥‰”µ¥É…Ñ¥½¹Ì…¹Í••ÕÁ‘…Ñ•Ì¸4(4(ŒŒQ•ÍÑÌ4(4)1¥ÍĞ½µµ…¹‘Ì…¹É•ÍÕ±ÑÌ¸4(4(ŒŒMÉ••¹ÌÉ•Ù¥•İ•4(4)1¥ÍĞ‘•Í­Ñ½À…¹µ½‰¥±”Á…•Ì¥¹ÍÁ•Ñ•¸4(4(ŒŒM•ÕÉ¥ÑäÉ•Ù¥•Ü4(4)•ÍÉ¥‰”½¹ÑÉ½±Ì…‘‘•…¹É•µ…¥¹¥¹œÉ¥Í­Ì¸4(4(ŒŒ-¹½İ¸±¥µ¥Ñ…Ñ¥½¹Ì4(4)	”•áÁ±¥¥Ğ¸4(4(ŒŒ9•áĞÁ¡…Í”4(4)I•½µµ•¹Ñ¡”Íµ…±±•ÍĞÍ…™”¹•áĞÑ…Í¬¸4(4)¼¹½ĞÍ¥±•¹Ñ±ä½¹Ñ¥¹Õ”…É½ÍÌµ…©½ÈÁ¡…Í•Ìİ¥Ñ¡½ÕĞÉ•Á½ÉÑ¥¹œÑ¡”¡•­Á½¥¹Ğ¸4(4(´´´4(4(Œ€ÈÜ¸%9%Q%=8==94(4)Ñ…Í¬¥Ì½µÁ±•Ñ”½¹±äİ¡•¸è4(4(¨I•ÅÕ¥É•µ•¹ÑÌ…É”¥µÁ±•µ•¹Ñ•¸4(¨QåÁ”¡•­¥¹œÁ…ÍÍ•Ì¸4(¨1¥¹Ñ¥¹œÁ…ÍÍ•Ì¸4(¨I•±•Ù…¹Ğ…ÕÑ½µ…Ñ•Ñ•ÍÑÌÁ…ÍÌ¸4(¨U$¡…Ì‰••¸¡•­•½¸µ½‰¥±”…¹‘•Í­Ñ½À¸4(¨1½…‘¥¹œ°•ÉÉ½È…¹•µÁÑäÍÑ…Ñ•Ì•á¥ÍĞ¸4(¨ÕÑ¡½É¥é…Ñ¥½¸¥Ì•¹™½É•Í•ÉÙ•ÈµÍ¥‘”¸4(¨9¼Í•É•ÑÌ…É”½µµ¥ÑÑ•¸4(¨½Õµ•¹Ñ…Ñ¥½¸¥ÌÕÁ‘…Ñ•¸4(¨•ÍÍ¥‰¥±¥Ñä¡…Ì‰••¸½¹Í¥‘•É•¸4(¨M•ÕÉ¥Ñä¥µÁ±¥…Ñ¥½¹Ì¡…Ù”‰••¸É•Ù¥•İ•¸4(¨•ÁÑ…¹”É¥Ñ•É¥„¡…Ù”‰••¸Ù•É¥™¥•¸4(4+Šq½‘”•¹•É…Ñ•“Št‘½•Ì¹½Ğµ•…¸ƒŠqÑ…Í¬½µÁ±•Ñ•“Št¸4(4(´´´4(4(Œ€Èà¸=EU1%QdIU1L4(4(¨UÍ”ÍÑÉ¥ĞQåÁ•MÉ¥ÁĞ¸4(¨Ù½¥…¹å€Õ¹±•ÍÌ©ÕÍÑ¥™¥•¸4(¨-••À½µÁ½¹•¹ÑÌ™½ÕÍ•¸4(¨M•Á…É…Ñ”‰ÕÍ¥¹•ÍÌ±½¥Œ™É½´U$¸4(¨-••ÀÁÉ½Ù¥‘•È¥¹Ñ•É…Ñ¥½¹Ì‰•¡¥¹¥¹Ñ•É™…•Ì¸4(¨AÉ•™•È•áÁ±¥¥Ğ¹…µ¥¹œ¸4(¨Ù½¥‘ÕÁ±¥…Ñ”Ù…±¥‘…Ñ¥½¸ÉÕ±•Ì¸4(¨Y…±¥‘…Ñ”¥¹ÁÕÑÌ…ĞÑÉÕÍĞ‰½Õ¹‘…É¥•Ì¸4(¨UÍ”Í¡…É•Í¡•µ…Ìİ¡•É”…ÁÁÉ½ÁÉ¥…Ñ”¸4(¨¼¹½ĞÉ•…Ñ”¡Õ”™¥±•Ì¸4(¨½Õµ•¹Ğ½µÁ±•àÉ•¹Ñ…°±½¥Œ¸4(¨Ù½¥ÁÉ•µ…ÑÕÉ”…‰ÍÑÉ…Ñ¥½¹Ì¸4(¨¼¹½Ğ¥¹ÑÉ½‘Õ”‘•Á•¹‘•¹¥•Ìİ¥Ñ¡½ÕĞ¡•­¥¹œµ…¥¹Ñ•¹…¹”°±¥•¹Í”…¹Í•ÕÉ¥Ñä¥µÁ±¥…Ñ¥½¹Ì¸4(¨UÍ”•¹Ù¥É½¹µ•¹ĞÙ…É¥…‰±•Ì™½È‘•Á±½åµ•¹ĞµÍÁ•¥™¥Œ½¹™¥ÕÉ…Ñ¥½¸¸4(¨-••ÀÍ…µÁ±”‘…Ñ„±•…É±äÍ•Á…É…Ñ•™É½´ÁÉ½‘ÕÑ¥½¸‘…Ñ„¸4(4(´´´4(4(Œ€Èä¸IEU%I9Y%I=959PQ5A1Q4(4)É•…Ñ”€¹•¹Ø¹•á…µÁ±•€½¹Ñ…¥¹¥¹œ¹…µ•Ì½¹±ä°¹•Ù•ÈÉ•…°Ù…±Õ•Ì¸4(4)½¹Í¥‘•ÈÙ…É¥…‰±•Ì™½Èè4(4(¨…Ñ…‰…Í”UI04(¨ÕÑ¡•¹Ñ¥…Ñ¥½¸Í•É•Ğ4(¨ÁÁ±¥…Ñ¥½¸UI04(¨AÕ‰±¥ŒÍ¡½À¹…µ”4(¨AÕ‰±¥Œ½¹Ñ…Ğ¹Õµ‰•È4(¨]¡…ÑÍÁÀ¹Õµ‰•È4(¨MÑ½É…”ÁÉ½Ù¥‘•È4(¨MÑ½É…”‰Õ­•Ğ4(¨MÑ½É…”É•‘•¹Ñ¥…±Ì4(¨$ÁÉ½Ù¥‘•È4(¨$A$­•ä4(¨$İ•‰¡½½¬Í•É•Ğ4(¨A…åµ•¹ĞÁÉ½Ù¥‘•È4(¨A…åµ•¹Ğµ•É¡…¹Ğ%4(¨A…åµ•¹ĞÍ•É•Ğ4(¨µ…¥°ÁÉ½Ù¥‘•È4(¨µ…¥°A$­•ä4(¨5½¹¥Ñ½É¥¹œ½¹¹•Ñ¥½¸4(¨A¡½Ñ¼É•Ñ•¹Ñ¥½¸Á•É¥½4(¨•…ÑÕÉ”™±…Ì4(4)AÉ½Ù¥‘”Í…™”‘•Ù•±½Áµ•¹Ğ‘•™…Õ±ÑÌİ¡•É”Á½ÍÍ¥‰±”¸4(4(´´´4(4(Œ€ÌÀ¸QUI1L4(4)‘½¹™¥ÕÉ…‰±”™•…ÑÕÉ”™±…Ìè4(4(¨$Y¥ÉÑÕ…°QÉäµ=¸4(¨€ÌØÃ
-ÀÙ¥•İ•È4(¨€ÍÙ¥•İ•È4(¨=¹±¥¹”Á…åµ•¹ÑÌ4(¨]¡…ÑÍÁÀ¹½Ñ¥™¥…Ñ¥½¹Ì4(¨ÕÍÑ½µ•ÈÉ•Ù¥•İÌ4(¨5Õ±Ñ¤µ±…¹Õ…”ÍÕÁÁ½ÉĞ4(¨•±¥Ù•Éä4(¨ÕÑ½µ…Ñ¥ŒÉ•™Õ¹‘Ì4(4)Q¡”½É”…ÁÁ±¥…Ñ¥½¸µÕÍĞ½¹Ñ¥¹Õ”İ½É­¥¹œİ¡•¸½ÁÑ¥½¹…°™•…ÑÕÉ•Ì…É”‘¥Í…‰±•¸4(4(´´´4(4(Œ€ÌÄ¸%9%Q%0M5A1Q4(4)É•…Ñ”ÁÉ½™•ÍÍ¥½¹…°‰ÕĞ™¥Ñ¥½¹…°Í••‘…Ñ„™½Èè4(4(¨€ÄËŠLÈÀ‘É•ÍÍ•Ì4(¨M•Ù•É…°‰É¥‘…°…Ñ•½É¥•Ì4(¨5Õ±Ñ¥Á±”Í¥é•Ì4(¨¥™™•É•¹ĞÁÉ¥”É…¹•Ì4(¨Ù…¥±…‰±”…¹Õ¹…Ù…¥±…‰±”Á•É¥½‘Ì4(¨I•¹Ñ…°Á…­…•Ì4(¨ÕÍÑ½µ•È…½Õ¹Ğ4(¨MÑ…™˜…½Õ¹Ğ4(¨‘µ¥¸…½Õ¹Ğ4(¨M…µÁ±”…ÁÁ½¥¹Ñµ•¹ÑÌ4(¨M…µÁ±”‰½½­¥¹Ì4(4)¼¹½ĞÕÍ”É•…°ÕÍÑ½µ•È¥¹™½Éµ…Ñ¥½¸¸4(4)M…µÁ±”…‘µ¥¸É•‘•¹Ñ¥…±ÌµÕÍĞ½¹±ä‰”™½È±½…°‘•Ù•±½Áµ•¹Ğ…¹µÕÍĞ‰”±•…É±ä‘½Õµ•¹Ñ•…Ì¥¹Í•ÕÉ”™½ÈÁÉ½‘ÕÑ¥½¸¸4(4(´´´4(4(Œ€ÌÈ¸%IMPQ%=8Q<Q-9=\4(4)¼¹½Ğ‰Õ¥±•Ù•ÉäÁ¡…Í”¥µµ•‘¥…Ñ•±ä¸4(4)A•É™½É´½¹±äÑ¡”™½±±½İ¥¹œ¥¹¥Ñ¥…°…Ñ¥½¹Ìè4(4(Ä¸%‘•¹Ñ¥™äå½ÕÉÍ•±˜…Ì½‘•à½È±…Õ‘”¸4(È¸%¹ÍÁ•ĞÑ¡”É•Á½Í¥Ñ½Éä…¹ÕÉÉ•¹Ğ¥ĞÍÑ…Ñ”¸4(Ì¸I•……±°…•¹Ğ…¹ÁÉ½©•Ğ¥¹ÍÑÉÕÑ¥½¸™¥±•Ì¸4(Ğ¸MÕµµ…É¥é”Ñ¡”•á¥ÍÑ¥¹œ¥µÁ±•µ•¹Ñ…Ñ¥½¸¸4(Ô¸%‘•¹Ñ¥™äÕ¹½µµ¥ÑÑ•İ½É¬…¹ÁÉ•Í•ÉÙ”¥Ğ¸4(Ø¸É•…Ñ”½ÈÁÉ½Á½Í”Ñ¡”½±±…‰½É…Ñ¥½¸‘½Õµ•¹Ñ…Ñ¥½¸¸4(Ü¸AÉ½‘Õ”Ñ¡”A¡…Í”€À…É¡¥Ñ•ÑÕÉ”…¹Ñ…Í¬‰É•…­‘½İ¸¸4(à¸%‘•¹Ñ¥™äµ¥ÍÍ¥¹œ‰ÕÍ¥¹•ÍÌ‘•¥Í¥½¹Ì¸4(ä¸I•½µµ•¹Ñ¡”™¥ÉÍĞÍµ…±°¥µÁ±•µ•¹Ñ…Ñ¥½¸µ¥±•ÍÑ½¹”¸4(ÄÀ¸]…¥Ğ™½È…ÁÁÉ½Ù…°‰•™½É”µ…­¥¹œ„µ…©½È…É¡¥Ñ•ÑÕÉ…°É•Á±…•µ•¹Ğ½ÈÍÑ…ÉÑ¥¹œ„Á…¥•áÑ•É¹…°¥¹Ñ•É…Ñ¥½¸¸4(4)e½ÕÈ™¥ÉÍĞÉ•ÍÁ½¹Í”µÕÍĞÕÍ”Ñ¡¥ÌÍÑÉÕÑÕÉ”è4(4(ŒŒ•¹Ğ%‘•¹Ñ¥Ñä4(4(ŒŒI•Á½Í¥Ñ½ÉäÍÍ•ÍÍµ•¹Ğ4(4(ŒŒá¥ÍÑ¥¹œQ•¡¹½±½äMÑ…¬4(4(ŒŒá¥ÍÑ¥¹œ]½É¬Q¡…Ğ5ÕÍĞ	”AÉ•Í•ÉÙ•4(4(ŒŒAÉ½Á½Í•É¡¥Ñ•ÑÕÉ”4(4(ŒŒA…”…¹•…ÑÕÉ”5…À4(4(ŒŒ…Ñ…‰…Í”A±…¸4(4(ŒŒM•ÕÉ¥Ñä…¹AÉ¥Ù…äA±…¸4(4(ŒŒ•Ù•±½Áµ•¹ĞA¡…Í•Ì4(4(ŒŒ•¹ĞQ…Í¬±±½…Ñ¥½¸4(4(ŒŒ5¥ÍÍ¥¹œ	ÕÍ¥¹•ÍÌ•¥Í¥½¹Ì4(4(ŒŒI¥Í­Ì…¹1¥µ¥Ñ…Ñ¥½¹Ì4(4(ŒŒI•½µµ•¹‘•¥ÉÍĞ5¥±•ÍÑ½¹”4(4(ŒŒ½µµ…¹‘Ì½ÈÑ¥½¹ÌAÉ½Á½Í•9•áĞ4(4)I•µ•µ‰•ÈèÑ¡”½…°¥Ì¹½Ğµ•É•±äÑ¼µ…­”„Ù¥ÍÕ…±±ä…ÑÑÉ…Ñ¥Ù”İ•‰Í¥Ñ”¸Q¡”½…°¥ÌÑ¼É•…Ñ”„Í•ÕÉ”°É•±¥…‰±”…¹•áÁ…¹‘…‰±”‰É¥‘…°É•¹Ñ…°‰ÕÍ¥¹•ÍÌÁ±…Ñ™½É´İ¥Ñ „±ÕáÕÉäÕÍÑ½µ•È•áÁ•É¥•¹”¸4(
+* DEPOSIT_PENDING
+* CONFIRMED
+* READY_FOR_PICKUP
+* PICKED_UP
+* RETURNED
+* INSPECTION_PENDING
+* COMPLETED
+* CANCELLED
+* REJECTED
+
+## Appointment
+
+* id
+* customerId
+* type
+* startAt
+* endAt
+* status
+* assignedStaffId
+* notes
+
+Appointment types:
+
+* CONSULTATION
+* FIRST_FITTING
+* ALTERATION
+* FINAL_FITTING
+* PICKUP
+* RETURN
+
+## Payment
+
+* id
+* bookingId
+* provider
+* providerReference
+* type
+* amount
+* currency
+* status
+* paidAt
+* verifiedAt
+* metadata
+
+Payment types:
+
+* DEPOSIT
+* RENTAL_BALANCE
+* DAMAGE_CHARGE
+* CLEANING_FEE
+* REFUND
+
+## AvailabilityBlock
+
+* id
+* dressVariantId
+* startAt
+* endAt
+* reason
+* bookingId
+* createdBy
+
+## ReturnInspection
+
+* id
+* bookingId
+* returnedAt
+* inspectedBy
+* conditionBefore
+* conditionAfter
+* damageDescription
+* damageCharge
+* cleaningRequired
+* evidenceMedia
+* status
+
+## VirtualTryOnJob
+
+* id
+* customerId
+* dressId
+* provider
+* sourceImageKey
+* resultImageKey
+* status
+* consentVersion
+* consentedAt
+* expiresAt
+* errorCode
+* createdAt
+* completedAt
+
+## Supporting entities
+
+Also consider:
+
+* Favourite
+* Review
+* Notification
+* Coupon
+* RentalPackage
+* Accessory
+* BookingAccessory
+* AuditLog
+* SiteContent
+* ShopLocation
+* StaffSchedule
+
+Create indexes and constraints for common searches.
+
+---
+
+# 13. RENTAL AVAILABILITY ENGINE
+
+Availability is a critical business rule.
+
+A dress variant is unavailable if an existing booking or maintenance block overlaps the requested period.
+
+Use this overlap rule:
+
+`requestedStart < existingEnd AND requestedEnd > existingStart`
+
+Include configurable buffer days for:
+
+* Cleaning
+* Inspection
+* Alterations
+* Transport
+* Preparation
+
+Example:
+
+If a dress is returned on 10 August and requires a two-day cleaning buffer, it must not be available before 13 August.
+
+Prevent race conditions:
+
+* Check availability on the server.
+* Recheck availability during booking confirmation.
+* Use database transactions.
+* Add appropriate database-level locking or exclusion strategy.
+* Never trust availability shown earlier in the browser.
+* Provide idempotency protection where needed.
+
+Write automated tests for:
+
+* Exact date collision
+* Partial overlap
+* Booking contained within another booking
+* Booking surrounding another booking
+* Adjacent dates
+* Cleaning buffer
+* Cancelled booking
+* Different dress variant
+* Concurrent booking attempts
+
+---
+
+# 14. BOOKING WORKFLOW
+
+Recommended workflow:
+
+1. Customer chooses a dress.
+2. Customer selects event and rental dates.
+3. System checks availability.
+4. Customer chooses fitting appointment.
+5. Customer enters or selects measurements.
+6. Customer reviews rental charges.
+7. Customer accepts rental terms.
+8. Customer sends a rental request.
+9. Admin reviews the request.
+10. Admin approves or proposes changes.
+11. Customer pays the deposit.
+12. Payment is verified server-side.
+13. Booking becomes confirmed.
+14. Dress dates are blocked.
+15. Notifications are sent.
+16. Staff performs fitting and alterations.
+17. Dress is prepared for pickup.
+18. Customer collects the dress.
+19. Customer returns the dress.
+20. Staff performs inspection.
+21. Damage or cleaning charges are recorded.
+22. Eligible deposit refund is processed.
+23. Booking is completed.
+
+Do not mark a booking confirmed based only on a frontend payment redirect. Verify the payment using the gatewayâ€™s server-side callback or API.
+
+---
+
+# 15. AI VIRTUAL TRY-ON
+
+Implement AI Virtual Try-On only after the core catalogue and booking system are stable.
+
+## Customer flow
+
+1. Open a dress page.
+2. Select â€œTry This Dressâ€.
+3. Read photo requirements.
+4. Accept explicit photo-processing consent.
+5. Upload a full-body image.
+6. Client validates type and basic size.
+7. Server validates the file again.
+8. Store it in private temporary storage.
+9. Create a VirtualTryOnJob.
+10. Send authorized input to the selected AI provider.
+11. Process the request asynchronously.
+12. Display progress safely.
+13. Store the result temporarily.
+14. Show the result with a clear AI disclaimer.
+15. Allow download or deletion.
+16. Automatically delete source and result files according to retention settings.
+
+## Upload rules
+
+Support only approved formats such as:
+
+* JPEG
+* PNG
+* WebP
+
+Perform:
+
+* MIME verification
+* File signature verification
+* File size limit
+* Pixel dimension limit
+* Metadata removal
+* Random storage names
+* Malware scanning if available
+* Image re-encoding
+* Rate limiting
+* Ownership checks
+
+Do not trust the filename or browser-provided MIME type.
+
+## AI disclaimer
+
+Display:
+
+â€œAI-generated preview only. Actual colour, fit, fabric drape, size and appearance may differ. Please book a physical fitting before confirming your rental.â€
+
+## Provider abstraction
+
+Create an interface similar to:
+
+* `createTryOnJob()`
+* `getTryOnStatus()`
+* `cancelTryOnJob()`
+* `deleteTryOnAssets()`
+
+Provide:
+
+* Real provider implementation
+* Mock provider implementation
+* Error handling
+* Retry policy
+* Timeout
+* Rate limiting
+* Usage logging without storing unnecessary personal data
+
+## Privacy
+
+The system must record:
+
+* Consent version
+* Consent timestamp
+* Purpose of processing
+* Retention period
+* Third-party processor
+* Deletion status
+
+Never use customer photos for model training unless the customer separately and explicitly opts in. The normal service must not depend on marketing or training consent.
+
+---
+
+# 16. 360-DEGREE AND 3D DRESS VIEWER
+
+Treat the following as separate features:
+
+## 360-degree photography
+
+Use a sequence of dress photographs captured around the mannequin.
+
+Features:
+
+* Drag to rotate
+* Touch swipe
+* Zoom
+* Lazy loading
+* Poster image
+* Loading progress
+* Mobile fallback
+
+## True 3D dress model
+
+Use GLB/GLTF models.
+
+Features:
+
+* Rotate
+* Zoom
+* Pan only if appropriate
+* Reset camera
+* Fullscreen
+* Lighting controls
+* Fabric detail
+* Mobile optimization
+* Accessible fallback gallery
+* Optional AR support
+
+Optimize 3D assets using:
+
+* Texture compression
+* Mesh compression
+* Reasonable polygon count
+* Lazy loading
+* CDN delivery
+* Poster images
+
+Do not load large 3D models on the initial home-page render.
+
+## Important product limitation
+
+A single uploaded customer photo does not create a reliable true 3D body model.
+
+The first release should provide:
+
+* AI-generated 2D try-on result
+* Independent 360Â° or 3D dress viewer
+
+Do not falsely combine these into an â€œaccurate 3D fittingâ€ claim.
+
+---
+
+# 17. ADMIN DASHBOARD
+
+The dashboard must provide:
+
+## Summary cards
+
+* Todayâ€™s appointments
+* Pending booking requests
+* Confirmed rentals
+* Upcoming pickups
+* Overdue returns
+* Dresses requiring cleaning
+* Pending inspections
+* Pending payments
+
+## Calendar
+
+Show:
+
+* Fittings
+* Rental periods
+* Pickups
+* Returns
+* Maintenance blocks
+
+## Dress management
+
+Admin can:
+
+* Add and edit dresses
+* Manage variants
+* Upload images
+* Reorder media
+* Set prices
+* Configure deposits
+* Mark dress condition
+* Enable AI try-on
+* Attach 3D models
+* Block unavailable dates
+* Retire a dress
+
+## Booking management
+
+Admin can:
+
+* Review requests
+* Check availability
+* Approve or reject
+* Propose alternate dates
+* Assign staff
+* Record notes
+* Update status
+* Record pickup
+* Record return
+* Complete inspection
+* Add charges
+* Process refund status
+
+All sensitive administrative actions must be recorded in an audit log.
+
+---
+
+# 18. PAYMENTS
+
+Create a provider-independent payment layer.
+
+Possible future providers may include a Sri Lankan payment gateway, bank transfer or manual shop payment. Do not assume a provider without confirmation.
+
+Support:
+
+* Online payment
+* Bank transfer reference
+* Cash payment recorded by staff
+* Partial payments
+* Refundable deposit
+* Balance payment
+* Refund status
+* Payment receipts
+
+Security rules:
+
+* Never store card details.
+* Use official hosted payment pages or tokenized provider flows.
+* Verify signatures on callbacks.
+* Use idempotency protection.
+* Keep raw payment secrets server-side.
+* Record payment audit events.
+* Reconcile payment amount and currency on the server.
+
+---
+
+# 19. NOTIFICATIONS
+
+Design a notification service abstraction.
+
+Channels:
+
+* Email
+* WhatsApp
+* SMS, if approved
+* In-app notifications
+
+Events:
+
+* Account created
+* Appointment requested
+* Appointment confirmed
+* Booking requested
+* Booking approved
+* Deposit requested
+* Payment received
+* Fitting reminder
+* Pickup reminder
+* Return reminder
+* Overdue return
+* Refund processed
+* AI try-on ready
+* AI photo deleted
+
+Do not send real messages during local development. Use a mock provider.
+
+---
+
+# 20. SECURITY REQUIREMENTS
+
+Follow secure-by-default principles.
+
+Implement:
+
+* Server-side authorization
+* Strong session handling
+* CSRF protection where applicable
+* Rate limiting
+* Input validation
+* Output encoding
+* Secure headers
+* Content Security Policy
+* Safe file uploads
+* Signed URLs
+* Database parameterization
+* Secrets management
+* Audit logging
+* Minimal error disclosure
+* Dependency scanning
+* Authentication event logging
+* Brute-force protection
+* Password reset security
+* Email verification if password authentication is used
+
+Protect against:
+
+* SQL injection
+* Cross-site scripting
+* CSRF
+* IDOR
+* Broken access control
+* Malicious uploads
+* Path traversal
+* SSRF
+* Payment callback forgery
+* Booking race conditions
+* Mass assignment
+* Excessive API requests
+* Sensitive data exposure
+
+Never log:
+
+* Passwords
+* Authentication tokens
+* Payment secrets
+* Complete private images
+* Unnecessary body measurements
+* Sensitive provider payloads
+
+---
+
+# 21. PRIVACY REQUIREMENTS
+
+The platform must be designed with Sri Lankan personal-data protection requirements in mind.
+
+Provide:
+
+* Privacy notice
+* Explicit Virtual Try-On consent
+* Purpose limitation
+* Data minimization
+* Retention schedule
+* Delete-my-photo function
+* Account deletion request
+* Consent withdrawal process
+* Third-party processor disclosure
+* International data transfer disclosure when applicable
+* Security incident procedure
+* Admin access controls
+
+Suggested default AI-image retention:
+
+* Source photo: delete as soon as processing is complete or within 24 hours
+* Result image: customer-controlled, with a short configurable expiry
+* Failed-job photo: delete automatically
+* Logs: retain only non-sensitive operational metadata
+
+The exact retention policy must be configurable and approved by the business owner.
+
+---
+
+# 22. SEO AND MARKETING
+
+Implement:
+
+* Semantic metadata
+* Open Graph images
+* Canonical URLs
+* XML sitemap
+* Robots configuration
+* Product structured data
+* Local Business structured data
+* Breadcrumb structured data
+* Clean dress slugs
+* Optimized page titles
+* Location-based content
+* Image alt text
+* Social sharing
+* Analytics consent architecture
+
+Possible SEO topics:
+
+* Bridal dress rental Sri Lanka
+* Wedding dress rental Colombo
+* Kandyan bridal dress rental
+* Bridal gown fitting
+* Designer wedding dress rental
+* Bridesmaid dress rental
+* Bridal pre-shoot dress rental
+
+Do not create keyword-stuffed or misleading content.
+
+---
+
+# 23. PERFORMANCE REQUIREMENTS
+
+Target:
+
+* Excellent mobile experience
+* Fast first content render
+* Optimized responsive images
+* Lazy-loaded galleries
+* Route-level code splitting
+* No large unused JavaScript
+* Cached public catalogue data
+* Efficient database queries
+* Pagination
+* Skeleton states
+* Graceful failure states
+* Low-bandwidth fallbacks
+
+Do not load:
+
+* AI libraries in the browser unnecessarily
+* Full-resolution images for thumbnails
+* 3D models before the user requests them
+* Entire catalogue datasets at once
+
+Use Core Web Vitals as performance guidance.
+
+---
+
+# 24. TESTING STRATEGY
+
+Required test layers:
+
+## Unit tests
+
+* Price calculation
+* Date overlap
+* Booking status transitions
+* Deposit calculations
+* Permission checks
+* File validation
+* AI provider abstraction
+
+## Integration tests
+
+* Registration
+* Login
+* Dress creation
+* Availability check
+* Booking request
+* Admin approval
+* Payment callback
+* Photo upload
+* AI job creation
+* Photo deletion
+
+## End-to-end tests
+
+Customer:
+
+* Browse collection
+* Filter dresses
+* Open dress details
+* Check dates
+* Book fitting
+* Submit booking request
+* View booking status
+
+Admin:
+
+* Add dress
+* Block dates
+* Approve booking
+* Record payment
+* Record pickup
+* Complete return inspection
+
+## Additional tests
+
+* Accessibility testing
+* Mobile viewport testing
+* Security checks
+* Concurrent booking test
+* Failed AI provider test
+* Failed payment verification test
+
+No phase is complete if its critical tests are failing.
+
+---
+
+# 25. DEVELOPMENT PHASES
+
+## Phase 0 â€“ Discovery and foundation
+
+Deliver:
+
+* Repository assessment
+* Project plan
+* Architecture document
+* Database ERD
+* Page map
+* User-flow documentation
+* Risk register
+* Task board
+* Environment template
+* Development instructions
+
+Do not proceed until the foundation is internally consistent.
+
+## Phase 1 â€“ Design system and public website
+
+Deliver:
+
+* Header and footer
+* Design tokens
+* Typography
+* Responsive layout
+* Home page
+* Collection page
+* Dress detail page
+* About
+* How it works
+* FAQ
+* Contact
+* Loading and empty states
+
+Use seed data initially.
+
+## Phase 2 â€“ Authentication and customer accounts
+
+Deliver:
+
+* Registration
+* Login
+* Password reset
+* Role system
+* Customer profile
+* Measurement profile
+* Favourites
+* Account dashboard
+
+## Phase 3 â€“ Dress inventory and admin
+
+Deliver:
+
+* Dress CRUD
+* Dress variant CRUD
+* Media management
+* Availability blocks
+* Admin dashboard
+* Audit logging
+
+## Phase 4 â€“ Appointments and rental booking
+
+Deliver:
+
+* Appointment calendar
+* Availability engine
+* Booking request flow
+* Admin approval
+* Booking status timeline
+* Pickup and return workflow
+* Inspection workflow
+
+## Phase 5 â€“ Payments and notifications
+
+Deliver:
+
+* Payment abstraction
+* Sandbox gateway or mock
+* Server-side verification
+* Receipts
+* Email notifications
+* WhatsApp-ready abstraction
+* Reminder system
+
+## Phase 6 â€“ AI Virtual Try-On
+
+Deliver:
+
+* Consent screen
+* Secure upload
+* Mock AI provider
+* Real provider integration behind configuration
+* Background job flow
+* Result page
+* Deletion flow
+* Rate limiting
+* Privacy controls
+
+## Phase 7 â€“ 360Â° and 3D viewer
+
+Deliver:
+
+* 360Â° image viewer
+* GLB/GLTF viewer
+* Mobile performance optimization
+* Accessible fallback
+* Admin media configuration
+
+## Phase 8 â€“ Quality and launch
+
+Deliver:
+
+* Full automated test suite
+* Security review
+* Accessibility review
+* Performance review
+* SEO configuration
+* Error monitoring
+* Backup strategy
+* Production deployment guide
+* Admin user guide
+* Customer support guide
+
+---
+
+# 26. PHASE CHECKPOINT FORMAT
+
+After every phase, report:
+
+## Completed
+
+List completed requirements.
+
+## Files changed
+
+List important files and why they changed.
+
+## Database changes
+
+Describe migrations and seed updates.
+
+## Tests
+
+List commands and results.
+
+## Screens reviewed
+
+List desktop and mobile pages inspected.
+
+## Security review
+
+Describe controls added and remaining risks.
+
+## Known limitations
+
+Be explicit.
+
+## Next phase
+
+Recommend the smallest safe next task.
+
+Do not silently continue across major phases without reporting the checkpoint.
+
+---
+
+# 27. DEFINITION OF DONE
+
+A task is complete only when:
+
+* Requirements are implemented.
+* Type checking passes.
+* Linting passes.
+* Relevant automated tests pass.
+* UI has been checked on mobile and desktop.
+* Loading, error and empty states exist.
+* Authorization is enforced server-side.
+* No secrets are committed.
+* Documentation is updated.
+* Accessibility has been considered.
+* Security implications have been reviewed.
+* Acceptance criteria have been verified.
+
+â€œCode generatedâ€ does not mean â€œtask completedâ€.
+
+---
+
+# 28. CODE QUALITY RULES
+
+* Use strict TypeScript.
+* Avoid `any` unless justified.
+* Keep components focused.
+* Separate business logic from UI.
+* Keep provider integrations behind interfaces.
+* Prefer explicit naming.
+* Avoid duplicate validation rules.
+* Validate inputs at trust boundaries.
+* Use shared schemas where appropriate.
+* Do not create huge files.
+* Document complex rental logic.
+* Avoid premature abstractions.
+* Do not introduce dependencies without checking maintenance, license and security implications.
+* Use environment variables for deployment-specific configuration.
+* Keep sample data clearly separated from production data.
+
+---
+
+# 29. REQUIRED ENVIRONMENT TEMPLATE
+
+Create `.env.example` containing names only, never real values.
+
+Consider variables for:
+
+* Database URL
+* Authentication secret
+* Application URL
+* Public shop name
+* Public contact number
+* WhatsApp number
+* Storage provider
+* Storage bucket
+* Storage credentials
+* AI provider
+* AI API key
+* AI webhook secret
+* Payment provider
+* Payment merchant ID
+* Payment secret
+* Email provider
+* Email API key
+* Monitoring connection
+* Photo retention period
+* Feature flags
+
+Provide safe development defaults where possible.
+
+---
+
+# 30. FEATURE FLAGS
+
+Add configurable feature flags:
+
+* AI Virtual Try-On
+* 360Â° viewer
+* 3D viewer
+* Online payments
+* WhatsApp notifications
+* Customer reviews
+* Multi-language support
+* Delivery
+* Automatic refunds
+
+The core application must continue working when optional features are disabled.
+
+---
+
+# 31. INITIAL SAMPLE DATA
+
+Create professional but fictional seed data for:
+
+* 12â€“20 dresses
+* Several bridal categories
+* Multiple sizes
+* Different price ranges
+* Available and unavailable periods
+* Rental packages
+* Customer account
+* Staff account
+* Admin account
+* Sample appointments
+* Sample bookings
+
+Do not use real customer information.
+
+Sample admin credentials must only be for local development and must be clearly documented as insecure for production.
+
+---
+
+# 32. FIRST ACTION TO TAKE NOW
+
+Do not build every phase immediately.
+
+Perform only the following initial actions:
+
+1. Identify yourself as Codex or Claude.
+2. Inspect the repository and current Git state.
+3. Read all agent and project instruction files.
+4. Summarize the existing implementation.
+5. Identify uncommitted work and preserve it.
+6. Create or propose the collaboration documentation.
+7. Produce the Phase 0 architecture and task breakdown.
+8. Identify missing business decisions.
+9. Recommend the first small implementation milestone.
+10. Wait for approval before making a major architectural replacement or starting a paid external integration.
+
+Your first response must use this structure:
+
+## Agent Identity
+
+## Repository Assessment
+
+## Existing Technology Stack
+
+## Existing Work That Must Be Preserved
+
+## Proposed Architecture
+
+## Page and Feature Map
+
+## Database Plan
+
+## Security and Privacy Plan
+
+## Development Phases
+
+## Agent Task Allocation
+
+## Missing Business Decisions
+
+## Risks and Limitations
+
+## Recommended First Milestone
+
+## Commands or Actions Proposed Next
+
+Remember: the goal is not merely to make a visually attractive website. The goal is to create a secure, reliable and expandable bridal rental business platform with a luxury customer experience.
