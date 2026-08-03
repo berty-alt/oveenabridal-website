@@ -9,7 +9,7 @@
 | P0-05 | Connect GitHub and establish `main`/`develop` workflow | Owner + Codex | Completed | `codex/github-ci` | Git metadata, `.github/workflows/ci.yml`, `TASKS.md`, `HANDOFF.md` | Owner approval received | Verified project published to `main` and `develop`; CI workflow is present |
 | P1-01 | Visual design tokens and global shell | Codex | Completed | `codex/design-system` | UI styles/components | P0-03 and asset placement | Responsive accessible header/footer and brand tokens |
 | P1-02 | English home page | Codex | Review | `codex/design-system` | Home page components and imagery | Browser visual review | Real owner imagery is integrated and the full page builds successfully; review mobile/desktop visuals |
-| P1-03 | Seed catalogue and dress detail experience | Codex | Backlog | `codex/catalogue` | Catalogue UI/data | Owner catalogue images and names | Filterable fictional/owner-approved catalogue with no invented policies |
+| P1-03 | Seed catalogue and dress detail experience | Codex | In Progress | `codex/design-system` | Catalogue UI/data | Owner-approved sample pricing and generated imagery | Filterable preview catalogue with clear fitting, deposit and approval disclaimers |
 | P2-01 | Supabase authentication and roles | Codex | Backlog | `codex/auth-roles` | Auth and database files | Supabase project approval | Server-enforced CUSTOMER/STAFF/ADMIN/SUPER_ADMIN roles |
 | P4-01 | Availability and rental-request engine | Codex | Backlog | `codex/availability` | Domain services/tests | Inventory schema and owner rental policy | Overlap, buffer, cancellation, and concurrency tests pass |
 

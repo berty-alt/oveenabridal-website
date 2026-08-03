@@ -16,6 +16,8 @@
 - Added an Oveena-specific generated social preview and Open Graph/Twitter metadata.
 - Integrated five owner-supplied bridal photographs across the hero, featured, style, real-bride and social sections while preserving photographer watermarks.
 - Added a clearly labelled AI-generated showroom concept visual; it is not presented as a photograph of the current shop.
+- Added the first filterable collection route covering bridal, engagement, bridesmaid, wedding-party and pre-shoot outfits.
+- Recorded owner-approved guide pricing: rentals from LKR 5,000 and deposits from LKR 5,000; exact terms remain showroom-confirmed.
 
 ## Files changed
 
@@ -27,6 +29,7 @@
 - Full homepage at `apps/web/src/app/page.tsx` and responsive design system at `apps/web/src/app/globals.css`.
 - Social preview at `apps/web/public/og.jpg`.
 - Homepage imagery at `apps/web/public/images/home/`.
+- Generated catalogue imagery at `apps/web/public/images/collection/` and the collection route at `apps/web/src/app/collection/`.
 
 ## Tests performed
 
@@ -40,7 +43,7 @@
 ## Known limitations
 
 - Rental duration, deposits, cancellation, late-return, damage, and cleaning policies are pending owner input.
-- Dress codes, exact categories, sizes, prices and rental terms remain pending owner input.
+- Catalogue names, codes, sizes and per-item prices are preview data pending reconciliation with physical stock.
 - The verified project is published to GitHub on both `main` and `develop`.
 - GitHub CLI is not installed locally; the connected GitHub app is used for repository operations and Actions inspection.
 - Supabase and Vercel projects have not been created.

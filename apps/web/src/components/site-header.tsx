@@ -1,11 +1,11 @@
 import Link from "next/link";
 
 const navigation = [
-  { href: "#collection", label: "Collection" },
-  { href: "#styles", label: "Bridal Styles" },
-  { href: "#how-it-works", label: "How It Works" },
-  { href: "#about", label: "About" },
-  { href: "#contact", label: "Contact" },
+  { href: "/collection", label: "Collection" },
+  { href: "/#styles", label: "Bridal Styles" },
+  { href: "/#how-it-works", label: "How It Works" },
+  { href: "/#about", label: "About" },
+  { href: "/#contact", label: "Contact" },
 ];
 
 export function SiteHeader() {
@@ -27,21 +27,21 @@ export function SiteHeader() {
 
           <nav className="desktop-nav" aria-label="Main navigation">
             {navigation.map((item) => (
-              <a href={item.href} key={item.href}>{item.label}</a>
+              <Link href={item.href} key={item.href}>{item.label}</Link>
             ))}
           </nav>
 
-          <a className="button button-dark header-cta" href="#book-fitting">
+          <Link className="button button-dark header-cta" href="/#book-fitting">
             Book a fitting
-          </a>
+          </Link>
 
           <details className="mobile-menu">
             <summary>Menu</summary>
             <nav aria-label="Mobile navigation">
               {navigation.map((item) => (
-                <a href={item.href} key={item.href}>{item.label}</a>
+                <Link href={item.href} key={item.href}>{item.label}</Link>
               ))}
-              <a className="button button-gold" href="#book-fitting">Book a fitting</a>
+              <Link className="button button-gold" href="/#book-fitting">Book a fitting</Link>
             </nav>
           </details>
         </div>
