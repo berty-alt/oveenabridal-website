@@ -31,14 +31,14 @@
 
 - Rental duration, deposits, cancellation, late-return, damage, and cleaning policies are pending owner input.
 - Catalogue names, descriptions, prices, sizes, and images are pending.
-- The GitHub repository is still empty; the initial `main`/`develop` push and branch protection are pending owner approval.
-- GitHub CLI is not installed locally, so Actions log inspection must use the connected GitHub app or a future CLI setup after workflows exist.
+- The verified project is published to GitHub on both `main` and `develop`.
+- GitHub CLI is not installed locally; the connected GitHub app is used for repository operations and Actions inspection.
 - Supabase and Vercel projects have not been created.
 - Responsive browser visual QA has not started; the first page is a foundation screen, not the completed public website.
 
 ## Next recommended task
 
-Publish the verified foundation and CI workflow to GitHub, establish `develop`, then begin the Codex-owned design system and public-site milestone.
+Begin the Codex-owned design system and public-site milestone. Configure branch protection when repository settings access is available.
 
 ## Do not change
 
