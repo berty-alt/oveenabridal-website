@@ -156,7 +156,7 @@ export function AdminDashboard({ email }: { email: string }) {
               <div className="admin-title"><div><p className="eyebrow">Workflow</p><h1>Rental requests</h1></div></div>
               <div className="request-list">
                 {requests.length === 0 && <p className="admin-empty">No rental requests yet.</p>}
-                {requests.map((item) => <article key={item.id}>
+                {requests.map((item) => <article className={`request-card request-card-${item.status}`} key={item.id}>
                   <div className="request-heading"><div><small>{item.dress_code}</small><h2>{item.dress_name}</h2></div><span className={`request-${item.status}`}>{item.status}</span></div>
                   <dl><div><dt>Customer</dt><dd>{item.customer_name}</dd></div><div><dt>Phone</dt><dd>{item.phone}</dd></div><div><dt>Size</dt><dd>{item.preferred_size}</dd></div><div><dt>Event</dt><dd>{item.event_date}</dd></div><div><dt>Fitting</dt><dd>{item.fitting_date}</dd></div></dl>
                   {item.notes && <p>{item.notes}</p>}
