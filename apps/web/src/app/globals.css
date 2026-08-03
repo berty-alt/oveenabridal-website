@@ -407,6 +407,46 @@ img { display: block; }
 .policy-points strong { color: var(--gold-dark); font-family: var(--serif); font-size: 1.15rem; font-weight: 400; }
 .policy-points span { color: var(--taupe); font-size: .9rem; line-height: 1.7; }
 
+.dress-detail-section { padding-block: 48px 105px; background: var(--ivory); }
+.detail-back { display: inline-block; margin-bottom: 30px; color: var(--gold-dark); font-size: .72rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.dress-detail-grid { display: grid; grid-template-columns: 1.05fr .95fr; gap: 75px; align-items: center; }
+.detail-image { position: relative; min-height: 760px; overflow: hidden; background: var(--cream); box-shadow: var(--shadow); }
+.detail-image::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgba(16,13,11,.3), transparent 30%); }
+.detail-image > span { position: absolute; z-index: 2; left: 22px; bottom: 20px; padding: 9px 13px; border-radius: 999px; background: rgba(255,253,248,.94); font-size: .65rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.detail-copy h1 { margin: 0; font-family: var(--serif); font-size: clamp(4rem, 6.3vw, 6.5rem); font-weight: 400; line-height: .92; letter-spacing: -.045em; }
+.detail-style { margin: 22px 0 30px; color: var(--taupe); font-family: var(--serif); font-size: 1.25rem; }
+.detail-price { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.detail-price p { margin: 0; padding: 18px; border: 1px solid rgba(126,97,45,.25); background: var(--cream); }
+.detail-price span, .detail-price strong { display: block; }
+.detail-price span { margin-bottom: 8px; color: var(--taupe); font-size: .65rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.detail-price strong { color: var(--gold-dark); font-family: var(--serif); font-size: 1.25rem; font-weight: 400; }
+.detail-facts { margin: 28px 0; border-top: 1px solid var(--line); }
+.detail-facts div { padding: 15px 0; display: flex; justify-content: space-between; gap: 25px; border-bottom: 1px solid var(--line); }
+.detail-facts dt { color: var(--taupe); font-size: .72rem; letter-spacing: .07em; text-transform: uppercase; }
+.detail-facts dd { margin: 0; font-size: .78rem; font-weight: 800; text-align: right; }
+.approval-note { margin-bottom: 25px; padding: 18px 20px; border-left: 2px solid var(--gold); background: white; }
+.approval-note strong { font-family: var(--serif); font-size: 1.08rem; font-weight: 400; }
+.approval-note p { margin: 7px 0 0; color: var(--taupe); font-size: .8rem; line-height: 1.6; }
+.rental-request-section { padding-block: 105px; background: var(--charcoal); color: white; }
+.rental-request-grid { display: grid; grid-template-columns: .72fr 1.28fr; gap: 85px; align-items: start; }
+.rental-request-grid h2 { margin: 0; font-family: var(--serif); font-size: clamp(3rem, 5vw, 5rem); font-weight: 400; line-height: 1; letter-spacing: -.04em; }
+.rental-request-grid > div:first-child > p:not(.eyebrow) { color: #cfc5b8; font-family: var(--serif); font-size: 1.05rem; line-height: 1.7; }
+.rental-request-grid ul { margin: 30px 0 0; padding: 0; display: grid; gap: 13px; list-style: none; }
+.rental-request-grid li { color: #d9d0c5; font-size: .82rem; line-height: 1.5; }
+.rental-request-grid li::before { content: "◆"; margin-right: 10px; color: var(--gold); font-size: .55rem; }
+.rental-form { padding: 34px; background: var(--ivory); color: var(--charcoal); }
+.form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.rental-form label { display: grid; gap: 8px; color: var(--taupe); font-size: .68rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.rental-form label > span { font-weight: 400; text-transform: none; }
+.rental-form input:not([type="checkbox"]), .rental-form select, .rental-form textarea { width: 100%; min-height: 50px; padding: 12px 14px; border: 1px solid var(--line); border-radius: 0; background: white; color: var(--charcoal); font: inherit; font-size: .86rem; letter-spacing: normal; outline: none; }
+.rental-form textarea { resize: vertical; }
+.rental-form input:focus, .rental-form select:focus, .rental-form textarea:focus { border-color: var(--gold-dark); box-shadow: 0 0 0 2px rgba(197,164,102,.2); }
+.form-notes { grid-column: 1 / -1; }
+.form-consent { margin: 22px 0; display: grid !important; grid-template-columns: auto 1fr; align-items: start; gap: 10px !important; color: var(--taupe) !important; font-weight: 400 !important; letter-spacing: normal !important; line-height: 1.55; text-transform: none !important; }
+.form-consent input { width: 18px; height: 18px; margin: 1px 0 0; accent-color: var(--gold-dark); }
+.rental-form > .button { width: 100%; }
+.form-status { margin: 16px 0 0; padding: 12px 14px; background: #e8f3eb; color: var(--success); font-size: .78rem; line-height: 1.5; }
+
 @media (max-width: 1050px) {
   .desktop-nav, .header-cta { display: none; }
   .mobile-menu { display: block; }
@@ -418,6 +458,8 @@ img { display: block; }
   .package-card-featured { transform: none; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
   .catalogue-grid { grid-template-columns: repeat(2, 1fr); }
+  .dress-detail-grid { gap: 42px; }
+  .detail-image { min-height: 650px; }
 }
 
 @media (max-width: 820px) {
@@ -454,6 +496,8 @@ img { display: block; }
   .collection-hero-inner { padding-block: 80px; }
   .collection-toolbar, .collection-policy-grid { grid-template-columns: 1fr; gap: 38px; }
   .category-filters { justify-content: flex-start; }
+  .dress-detail-grid, .rental-request-grid { grid-template-columns: 1fr; gap: 45px; }
+  .detail-image { min-height: 720px; }
 }
 
 @media (max-width: 540px) {
@@ -498,6 +542,13 @@ img { display: block; }
   .category-filters button { width: 100%; }
   .catalogue-grid { grid-template-columns: 1fr; }
   .collection-policy { padding-block: 80px; }
+  .dress-detail-section { padding-block: 30px 75px; }
+  .detail-image { min-height: 520px; }
+  .detail-copy h1 { font-size: 3.7rem; }
+  .detail-price, .form-grid { grid-template-columns: 1fr; }
+  .form-notes { grid-column: auto; }
+  .rental-request-section { padding-block: 80px; }
+  .rental-form { padding: 24px 20px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

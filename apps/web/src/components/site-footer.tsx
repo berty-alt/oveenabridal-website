@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export function SiteFooter() {
   return (
     <footer className="site-footer" id="contact">
@@ -28,10 +30,10 @@ export function SiteFooter() {
 
         <div>
           <h2>Explore</h2>
-          <a href="#collection">Bridal collection</a>
-          <a href="#how-it-works">How renting works</a>
-          <a href="#book-fitting">Book a fitting</a>
-          <a href="#faq">Frequently asked questions</a>
+          <Link href="/collection">Bridal collection</Link>
+          <Link href="/#how-it-works">How renting works</Link>
+          <Link href="/#book-fitting">Book a fitting</Link>
+          <Link href="/#faq">Frequently asked questions</Link>
         </div>
       </div>
       <div className="site-shell footer-bottom">
