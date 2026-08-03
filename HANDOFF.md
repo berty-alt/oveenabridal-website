@@ -18,6 +18,7 @@
 - Added a clearly labelled AI-generated showroom concept visual; it is not presented as a photograph of the current shop.
 - Added the first filterable collection route covering bridal, engagement, bridesmaid, wedding-party and pre-shoot outfits.
 - Recorded owner-approved guide pricing: rentals from LKR 5,000 and deposits from LKR 5,000; exact terms remain showroom-confirmed.
+- Expanded the preview catalogue with ten additional AI-generated dress images, balanced across all five occasion categories.
 
 ## Files changed
 
